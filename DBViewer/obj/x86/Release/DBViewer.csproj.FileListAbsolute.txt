@@ -1,0 +1,11 @@
+G:\HKK_Downloader\WindowsFormsApplication1\bin\Release\hkk.sdf
+G:\HKK_Downloader\WindowsFormsApplication1\bin\Release\HKKDB.exe.config
+G:\HKK_Downloader\WindowsFormsApplication1\bin\Release\HKKDB.exe
+G:\HKK_Downloader\WindowsFormsApplication1\bin\Release\HKKDB.pdb
+G:\HKK_Downloader\WindowsFormsApplication1\bin\Release\System.Data.SqlServerCe.dll
+G:\HKK_Downloader\WindowsFormsApplication1\obj\x86\Release\DBViewer.csprojResolveAssemblyReference.cache
+G:\HKK_Downloader\WindowsFormsApplication1\obj\x86\Release\DBViewer.Form1.resources
+G:\HKK_Downloader\WindowsFormsApplication1\obj\x86\Release\DBViewer.Properties.Resources.resources
+G:\HKK_Downloader\WindowsFormsApplication1\obj\x86\Release\DBViewer.csproj.GenerateResource.Cache
+G:\HKK_Downloader\WindowsFormsApplication1\obj\x86\Release\HKKDB.exe
+G:\HKK_Downloader\WindowsFormsApplication1\obj\x86\Release\HKKDB.pdb

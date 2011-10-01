@@ -1,0 +1,5993 @@
+3190'>a bajnok akarata
+1439'>a bajnok manifesztációja
+6274'>a bajnok manifesztációja (új)
+2872'>a bajnokok reggelije
+3593'>a balek zsákja
+4427'>a bátorság dala
+3229'>a behemótok nagymestere
+1138'>a béke erdeje
+3040'>a béke fenntartása
+3987'>a béke megőrzése
+4318'>a béke megszakítása
+129'>a béke mezeje
+905'>a béke szigete
+5374'>a béklyók lerázása
+2368'>a berserker itala
+856'>a bika ideje
+3202'>a bíró döntése
+1036'>a birodalom virágkora
+2731'>a biztonság helytartója
+2261'>a boldogság csengettyűi
+4324'>a boldogság ünnepe
+927'>a bolondok aranya
+5169'>a borzalmak terme
+3259'>a borzalom csarnoka
+1008'>a bőség zavara
+2832'>a bosszú lángja
+1935'>a bűbájosság rúnája
+1795'>a butaság terjedése
+394'>a bűvölet perce
+6192'>a bűvölet perce (új)
+5449'>a bölcsek kívánsága
+1692'>a bölcsek köve
+3655'>a bölcsek köve (új)
+4398'>a bölcsesség dala
+4414'>a csábítás dala
+6287'>a csata megfordítása
+3892'>a csend tornya
+2405'>a csodák csarnoka
+4064'>a csodák kútja
+1533'>a csodák palotája
+6141'>a csodák palotája (új)
+4431'>a csontkupola ura
+228'>a denevér hatalma
+1937'>a dimenziók háborúja
+5378'>a dimenziók háborúja (új)
+3572'>a fájdalom szépsége
+645'>a fák ereje
+1202'>a falak ereje
+1005'>a fattyak létrehozása
+4589'>a fattyak mentora
+1020'>a fattyak ura
+5368'>a fattyak ura (új)
+784'>a fattyak visszatérnek
+5016'>a fattyak öregapja
+5454'>a fehér özvegy
+5708'>a fekete herceg
+5126'>a fekete kos rituáléja
+1807'>a fekete sereg
+4956'>a feketeszív rend apátja
+2812'>a fele királyság
+3039'>a feledés korszaka
+2828'>a feledés szelleme
+5339'>a feledés szelleme (új)
+3477'>a felejtés aurája
+4341'>a felejtés harcosa
+4481'>a felhők asszonya
+5061'>a felhők uralkodónője
+4344'>a felkészültség jutalma
+2393'>a felnőtté válás ceremóniája
+4419'>a fémek mestere
+2454'>a fenevad üvöltése
+6308'>a fény citadellája
+2039'>a fény ideje
+3251'>a fény oltára
+2177'>a fény ragyogása
+1218'>a fény szentélye
+4204'>a fény szentélye (új)
+2519'>a fény tava
+3265'>a fény temploma
+5594'>a fénytorony mágusa
+2037'>a féreg érintése
+2838'>a férgek védelmezője
+6294'>a férgek védelmezője (új)
+2894'>a fertő agyarai
+2672'>a fókusz meglelése
+4048'>a fonatok erősítése
+2357'>a forrás érintése
+3278'>a furfang temploma
+6090'>a furfang temploma (új)
+2588'>a föld oltára
+573'>a föld sárkánya
+1357'>a föld síkja
+6148'>a föld síkja (új)
+2076'>a galetki barlangja
+3539'>a galetkik védelmezője
+5589'>a ganüidek öregapja
+4638'>a gazdagok választása
+1071'>a géniusz manifesztációja
+931'>a gépben lakozó szellem
+1004'>a gépezet
+4256'>a gépezet (új)
+5254'>a gigászok haragja
+4935'>a goblinok megmentője
+1889'>a gonosz árulása
+1122'>a gonoszság ereje
+4502'>a gyalázat lemosása
+1212'>a gyenge ereje
+6268'>a gyenge ereje (új)
+2481'>a gyenge gyengéje
+635'>a gyenge pusztulása
+5384'>a gyenge pusztulása (új)
+4368'>a gyengék összefogása
+3184'>a gyík lesújt
+2865'>a gyógyítás fájdalma
+6095'>a gyógyítás fájdalma (új)
+2045'>a gyógyulás temploma
+942'>a győzelem ára
+340'>a győzelem reménye
+718'>a háború szentélye
+3557'>a hadúr szava
+6229'>a hadúr szava (új)
+558'>a halál angyala
+5702'>a halál árnyékában
+720'>a halál csókja
+4410'>a halál dala
+3584'>a halál éjfekete lovasa
+2801'>a halál fia
+518'>a halál hírnöke
+1292'>a halál maszkja
+3842'>a halál nem válogat
+2728'>a halál sekrestyése
+2458'>a halál szele
+5343'>a halál szele (új)
+3276'>a halál temploma
+659'>a halál tornya
+2566'>a halálhozó rikoltása
+3049'>a halandóság átlépése
+6273'>a halandóság átlépése (új)
+3602'>a halhatatlanok nagymestere
+1944'>a halhatatlanok pusztulása
+4290'>a halhatatlanok pusztulása (új)
+2776'>a hallucináció börtöne
+3848'>a harag ereje
+1534'>a harag manifesztációja
+3716'>a harag manifesztációja (új)
+5627'>a harc elcsitul
+2535'>a harc ideje
+3588'>a harmadik lovas
+969'>a hármas mágikus ereje
+5416'>a hármas mágikus ereje (új)
+1060'>a három kívánság gyűrűje
+5427'>a három kívánság gyűrűje (új)
+6018'>a hasonlóság keresése
+1768'>a hatalom átadása
+825'>a hatalom átka
+3518'>a hatalom illúziója
+3556'>a hatalom kék itala
+1671'>a hatalom korlátozása
+3614'>a hatalom oltára
+1610'>a hatalom őrülete
+5333'>a hatalom őrülete (új)
+565'>a hatalom szava
+1056'>a hatalom szövetsége
+2373'>a hatalom tornya
+2622'>a hatalom torzulása
+6210'>a hatalom torzulása (új)
+2782'>a hatodik nap
+3128'>a hegy átka
+2391'>a hegy kapuja
+2014'>a hegy mélye
+1847'>a hely szelleme
+2638'>a helytartó csápja
+1830'>a hírnök szava
+4206'>a hírnök szava (új)
+5519'>a holdtorony mágusa
+2737'>a holtak békéje
+6145'>a holtak békéje (új)
+3587'>a holtak bolygatása
+571'>a holtak bosszúja
+4257'>a holtak bosszúja (új)
+1493'>a holtak hívó szava
+5759'>a holtak imája
+3157'>a holtak könyve
+1143'>a holtak nyugalma
+3583'>a holtak segítsége
+1047'>a holtak szelleme
+4258'>a holtak szelleme (új)
+5729'>a holtak trükkje
+1749'>a horda támadása
+6010'>a hordák titka
+1315'>a hősi szellemek kincstára
+1602'>a hősök hagyatéka
+2350'>a hősök lakomája
+5533'>a hullámok tánca
+5057'>a hullámok úrnője
+1293'>a hűség köteléke
+6070'>a jel
+163'>a jóság ereje
+618'>a jóság jutalma
+2610'>a jövő alakítása
+1077'>a jövő felejtése
+6205'>a jövő felejtése (új)
+924'>a jövő ismerete
+1966'>a jövő ura
+3400'>a kalandozók védőszentje
+2192'>a kalmárok itala
+5491'>a kalózok kincse
+5028'>a káosz dalnoka
+5747'>a káosz egyhangú libái
+2442'>a káosz halványlila aurája
+1527'>a káosz hangjai
+4192'>a káosz hangjai (új)
+1594'>a káosz hatalma
+3888'>a káosz igazi arca
+733'>a káosz korlátozása
+3498'>a káosz oltára
+973'>a káosz szentélye
+3582'>a káosz örvénylő lovasa
+2808'>a káprázat ereje
+4582'>a kapuk őrzője
+334'>a kapzsiság átka
+5485'>a kardhal nyársalása
+5439'>a kárhozat fala
+499'>a kaszás érintése
+851'>a keresés lángja
+3950'>a készletek védelme
+2744'>a kétségbeesés hatalma
+5275'>a kezdet fiai
+3182'>a kígyó taktikája
+1484'>a kincsek hatalma
+2074'>a kincskeresés itala
+5156'>a kiválasztott
+1420'>a kockázat ára
+868'>a kos csapása
+870'>a kos ereje
+1988'>a kos rend szerzetese
+2670'>a különlegesség ereje
+2671'>a különlegesség megcsúfolása
+2529'>a kör bezárul
+2243'>a kövek ereje
+2284'>a kövek hatalma
+576'>a középszer pusztulása
+5367'>a középszer pusztulása (új)
+1276'>a közösség ereje
+4222'>a közösség ereje (új)
+4058'>a láng marása
+509'>a lángok estéje
+4947'>a lángok küldötte
+1300'>a láthatatlanság köpenye
+4596'>a legfőbb követő
+4970'>a legutolsó csapás
+2410'>a lehelet itala
+3559'>a lélek elorzása
+2944'>a lélek felszabadítása
+4432'>a lélek súlya
+1166'>a lélek védelme
+5765'>a lelkek démona
+2312'>a lelkek folyója
+3854'>a lelkek könyve
+5279'>a lépés tartása
+1376'>a levegő síkja
+989'>a lopás nagymestere
+1578'>a lustaság átka
+651'>a magány fájdalma
+1672'>a mágia csodája
+3512'>a mágia elnyelése
+446'>a mágia halála
+1403'>a mágia létsíkja
+6304'>a mágia létsíkja (új)
+717'>a mágia méltósága
+2946'>a mágia oltára
+1530'>a mágia szabadsága
+3637'>a mágia tobzódása
+3303'>a mágus ujja
+2259'>a mágusok átka
+3338'>a majom technikája
+546'>a megbocsátás apostola
+1495'>a meglepetés előnye
+6152'>a meglepetés előnye (új)
+5186'>a megtestesült fény
+5175'>a megtestesült sötétség
+2882'>a mélység démona
+5554'>a mélység felfedezése
+5656'>a mélység ura
+4138'>a méreg sodra
+3045'>a mester
+1701'>a mester büntetése
+3788'>a mester büntetése (új)
+776'>a mester jutalma
+4992'>a mindentudás kódexe
+4492'>a mindentudó
+1388'>a moák fénykora
+4198'>a moák fénykora (új)
+1587'>a moák mesterkedése
+3800'>a moák mesterkedése (új)
+3094'>a moák öröksége
+1556'>a módszerek ellesése
+5757'>a mogokok alkuja
+5085'>a mogokok szövetsége
+4097'>a mogokok törvénye
+3906'>a morfok csábítása
+3564'>a múlt tükre
+997'>a mutáció eredménye
+2119'>a mutánsok tombolása
+1564'>a muzsika hatalma
+4673'>a mytokronitok átka
+2175'>a nagytanács ítélete
+3102'>a napfény szépsége
+1938'>a norektyr mágiája
+4006'>a nyugalom pillanata
+2864'>a nyugalom tengere
+3033'>a pegazusok hercege
+6199'>a pegazusok hercege (új)
+4402'>a pénz dala
+4342'>a pénz hatalma
+1330'>a pénz szentélye
+4339'>a pók amulettje
+5013'>a pókok nagyasszonya
+3929'>a pokol szeme
+2758'>a próféta parancsa
+1113'>a pusztítás botja
+5909'>a pusztítás citadellája
+1950'>a pusztulás fájdalma
+3335'>a pusztulás oltára
+1724'>a pusztulás sírjai
+3586'>a ragály rothadó lovasa
+489'>a remény virága
+1947'>a reménytelenség bajnoka
+4278'>a reménytelenség bajnoka (új)
+4087'>a rend ereje
+2101'>a rend helyreállítása
+3526'>a rend hírnöke
+2169'>a repülés szabadsága
+1844'>a rettenet katonája
+949'>a rothadás szentélye
+724'>a rútság büntetése
+2223'>a sárkány kincse
+5574'>a sárkány könnyei
+4474'>a sárkány születése
+176'>a sebek beforrnak
+3726'>a sebek beforrnak (új)
+846'>a sellők csábítása
+4645'>a semmi avatárja
+4622'>a semmi hívása
+4338'>a semmi mestere
+725'>a skorpió ereje
+3812'>a sokaság ereje
+1815'>a sors fintora
+4238'>a sors fintora (új)
+4576'>a sors könyve
+1967'>a sürgetés rúnája
+5329'>a sürgetés rúnája (új)
+1057'>a szabadság ára
+1572'>a szaporaság jutalma
+6154'>a szaporaság jutalma (új)
+2295'>a szelek ura
+3635'>a szerelem hatalma
+2785'>a szerelem tornya
+1605'>a szerencse fia
+2589'>a szerencse hírnöke
+455'>a szerencse pillanata
+4960'>a szerencsétlenség pegazusa
+2056'>a szeretet ünnepe
+1756'>a sziklák atyja
+767'>a szirének éneke
+3796'>a szirének éneke (új)
+1956'>a szirének hatalma
+2629'>a szkarabeuszok átka
+5390'>a szkarabeuszok átka (új)
+3558'>a szó hatalma
+1641'>a szójerek tobzódása
+1743'>a szójerek tombolása
+2900'>a szürkeállomány roncsolása
+934'>a sötét föld átka
+2048'>a sötétség ideje
+833'>a sötétség kardja
+3441'>a sötétség karma
+638'>a takarékosság jutalma
+491'>a tanács döntése
+1050'>a tanítvány lázadása
+4252'>a tanítvány lázadása (új)
+2147'>a tavasz illata
+4663'>a tébolyodott
+3866'>a teknősök öregapja
+782'>a teljesség tornya
+864'>a tengerek ura
+4274'>a tengerek ura (új)
+6283'>a tér-idő ura
+1613'>a teremtés zenekara
+756'>a teremtő szava
+27'>a természet haragja
+4166'>a természet haragja (új)
+167'>a természet megcsúfolása
+507'>a természet papja
+620'>a természet rendje
+3908'>a tiltott könyv
+5662'>a tiszta lelkek városa
+2721'>a tisztaság kapuja
+2305'>a tisztaság tornya
+2811'>a tisztesség manifesztációja
+2361'>a titánok szele
+5304'>a titánok szele (új)
+5092'>a titkok tanulmányozása
+5104'>a tízek tanácsa
+3603'>a tizenhármak tanácsa
+3273'>a tizennegyedik
+3644'>a torzak hercege
+687'>a trükkök kizárása
+1312'>a tudás hatalom
+4028'>a tudat ellensége
+3009'>a tudomány ára
+3554'>a túlélés ára
+6062'>a túlvilág hívása
+5055'>a tűz helytartója
+2597'>a tűz oltára
+1373'>a tűz síkja
+6159'>a tűz síkja (új)
+871'>a tűz ura
+2585'>a türelem hírnöke
+1806'>a türelem rózsája
+859'>a tömeg hívó szava
+1596'>a vadak megfékezése
+535'>a vadak ura
+2267'>a változások kora
+554'>a vámpír csókja
+4157'>a vámpír csókja (új)
+693'>a vámpírok éjszakája
+3401'>a vándor
+2021'>a védelem itala
+2713'>a védelem parancsnoka
+5610'>a vég kezdete
+3975'>a végítélet harsonái
+198'>a végső áldozat
+5105'>a végső összecsapás
+3271'>a végzet talizmánja
+6228'>a végzet talizmánja (új)
+5692'>a végzetúr haragja
+4445'>a vér dala
+3159'>a vér hatalma
+5467'>a vér kötelez
+2125'>a vér szintje
+3026'>a vér tava
+4404'>a verekedők szétválasztása
+568'>a vereség híre
+2919'>a vezér útja
+4374'>a viharisten jele
+1673'>a világ újrafelosztása
+3545'>a viszály vége
+1365'>a víz síkja
+2032'>a xirnox lehelete
+3173'>a xirnoxok átka
+1273'>a zangrozi módszer
+2937'>a zologrenderi harcos
+4942'>abarrun mágiája
+915'>abarrun segítsége
+5086'>abszolút preventálás
+2510'>abszolút pusztítás
+384'>acél öklök
+306'>acéldarázs
+3661'>acéldarázs (új)
+2580'>acélgólem
+329'>acélkolosszus
+3785'>acélkolosszus (új)
+1468'>acélököl
+577'>achát gólem
+5860'>adamantit agyar
+1394'>adamantit gólem
+5569'>adaptált xenomorf
+1536'>adószedő
+1616'>áeratikus hasnyák
+2470'>afgori hatalma
+2424'>afgori, szilmill törzsfő
+5536'>agg sziránusz
+56'>agglomerátor
+5214'>agrabzin
+5215'>agrabzin lebernyege
+5161'>agrabzin védőhája
+16'>agresszivitás
+1990'>agyagelementál
+1314'>agyaggalamb
+3689'>agyaggalamb (új)
+1636'>agyaggólem
+4289'>agyaggólem (új)
+2134'>agyalapi aladár
+1209'>agybénítás
+6252'>agybénítás (új)
+1188'>agyburok
+1755'>agydaráló
+5101'>agydöbbentő benő
+4358'>agyfürkészés
+2761'>agyhalál
+4510'>agykéreggyalu
+191'>agyletapogatás
+3918'>agypörkölő
+9'>agyroppantás
+5464'>agyroppantó ganüid
+291'>agytaposás
+3783'>agytaposás (új)
+2479'>agyvihar
+1152'>agyzabáló
+3705'>agyzabáló (új)
+273'>agyzavarás
+3782'>agyzavarás (új)
+2293'>ahriman
+4325'>ajándékcsomag
+6053'>akadémia
+4012'>akasztófa
+4038'>akmal
+4650'>aktív manatermelés
+454'>aktivitás
+617'>alacsony morál
+1140'>alagút
+985'>alakváltás
+55'>alakváltó
+1440'>alanor
+3805'>alanor (új)
+4585'>alanor kancellárja
+1360'>alanori csatamén
+260'>alanori csatorna
+1123'>alanori egyetem
+1107'>alanori futár
+4671'>alanori katapultállomás
+861'>alanori krónika
+4243'>alanori krónika (új)
+262'>alanori könyvtár
+5116'>alantas játék
+2694'>alaptalan remény
+2508'>alattomos fekete csáp
+1831'>alattomos manó
+4163'>alattomos manó (új)
+1943'>alattomos módszerek
+5721'>alattomos ork
+2734'>alba regina
+3234'>albinó féreg
+2528'>albinó küklopsz
+4107'>albinó varkaudar
+156'>álcázás
+2409'>álcázás szakértelem
+2342'>álcázómester
+36'>áldomás
+2787'>áldott okerón
+2244'>áldozási ceremónia
+195'>áldozat
+5718'>áldozat a főistennek
+802'>áldozat a holnapért
+5335'>áldozat a holnapért (új)
+4104'>áldozat az ősi isteneknek
+1825'>áldozathozatal
+427'>áldozati bárány
+4165'>áldozati bárány (új)
+5643'>áldozati fatty
+1516'>áldozati máglya
+2936'>áldozati orgling
+5143'>áldozatkész ganüid
+5006'>áldozó rakshallion
+658'>áldozókés
+894'>áldozómester
+1155'>alex vampirsson
+4271'>alex vampirsson (új)
+2246'>alias kurd
+4953'>aljas féreg
+1284'>alkalmazkodás
+2120'>alkalmazkodás
+7'>alkímia
+1560'>alkímiázó üst
+2842'>alkímista
+3622'>alku a sorssal
+1832'>állati félelem
+6031'>állati ösztön
+6055'>alligátorteknős
+1232'>álmodozás
+2515'>álmosító manó
+6221'>álmosító manó (új)
+1236'>álomfaló
+5522'>álomhozó
+3887'>álommágia
+1238'>álomőrzők
+1329'>álompor
+1402'>álomsárkány
+5369'>álomsárkány (új)
+1231'>álomtündér
+1340'>álomvilág
+3329'>álomvirág
+4164'>álomvirág (új)
+1267'>alpesi tehén
+5338'>általános csodatétel
+1022'>általános randomizáció
+1726'>altatódal
+3270'>alvás
+5748'>alvilági hordák
+4084'>alvó drakolder
+5151'>ambassadar
+1294'>ametisztmedál
+5068'>amnézia
+728'>amnioszfa
+3616'>amőbaszerű gyík
+171'>ámokfutó
+2906'>amorf testkéreg
+2187'>amyrro
+4961'>angvard
+5608'>angyalhercegnő
+3020'>angyali bűbáj
+5887'>angyali közbelépés
+4661'>angyali sereg
+5681'>angyali torony
+2854'>animáció
+3543'>animált kolosszus
+3142'>animált korall
+2283'>animált ősföld
+4529'>animált tűzbestia
+122'>annak
+2060'>annihiláció
+4471'>anti-mágikus megszakítás
+1321'>antimágikus ballaszt
+4197'>antimágikus ballaszt (új)
+4983'>antimágikus blokkolás
+3120'>antimágikus citadella
+3063'>antimágikus csáp
+2432'>antimágikus goblin
+6257'>antimágikus goblin (új)
+936'>antimágikus őrtorony
+3629'>antimágikus puffancs
+3105'>antimágikus rakshallion
+2935'>antimágikus szellő
+3228'>antimágikus szféra
+4030'>antimágustanonc
+3001'>antiőskő
+4604'>antitalentum
+2242'>anyagi robbanás
+2659'>anyamotyogó
+1638'>apokalipszis
+3226'>apró gömbvillám
+6130'>apró gömbvillám (új)
+4545'>apró kincs
+3160'>apró kívánság
+4966'>apró morf
+2893'>apró szintlépés
+898'>aquan
+6131'>aquan (új)
+3829'>arachnid sámán
+1779'>áradás
+501'>arany délelőtt
+4263'>arany gugyola
+377'>arany papi karkötő
+2289'>aranybánya
+2701'>aranycsináló csáp
+5881'>aranydukát
+657'>aranyeső
+421'>aranyfecske
+4313'>aranyforrás
+2298'>aranygriff
+6206'>aranygriff (új)
+433'>aranyló ugarhéj
+5517'>aranymágus
+6074'>aranymosó serpenyő
+2180'>aranysárkány
+5137'>aranysárkány csemete
+2609'>aranysörényű pegazus
+6187'>aranysörényű pegazus (új)
+3529'>aranytigris
+6153'>aranytigris (új)
+4518'>aranytojás
+761'>aranytojást tojó tyúk
+488'>aratás után
+353'>arató csattanat
+6250'>arató csattanat (új)
+775'>arc
+5863'>archaix
+5849'>ardun mork
+1995'>arhomad varangy
+716'>aritma
+1853'>arkangyal
+3758'>arkangyal (új)
+2869'>arkhon, a vezér
+6121'>arkhon, a vezér (új)
+5766'>arkona, a tűzdémon
+1919'>armageddon
+4149'>armageddon (új)
+828'>arnilla
+3809'>árnyékdémon
+4556'>árnyékfoltozó
+4597'>árnyékgólem
+4461'>árnyékgyilkos
+2195'>árnyékharcos
+5064'>árnyékherceg
+551'>árnyékhold
+4317'>árnyékhold (új)
+593'>árnyékrája
+4151'>árnyékrája (új)
+1601'>árnyéksárkány
+3799'>árnyéksárkány (új)
+4381'>árnyéksólyom
+753'>árnyéktestőrség
+1382'>árnyéktűz
+5417'>árnyéktűz (új)
+6011'>árnyékvándor
+1309'>árnyékvilág
+5155'>árnyfantom
+4627'>árnylélek befogása
+2855'>árnylord
+51'>árnymanó
+1241'>árnyrém
+6208'>árnyrém (új)
+3481'>árnytestvér
+6188'>árnytestvér (új)
+3860'>árnytündér kipárolgás
+6281'>árnytündér lidérc
+6282'>arochos
+1584'>arrthon
+5661'>ártány
+2823'>ártatlan ártalom
+1163'>árulás
+3697'>árulás (új)
+5178'>áruló teknős
+1029'>áruló yathmog
+5348'>áruló yathmog (új)
+1081'>árvíz
+5035'>arzgul
+5023'>arzgul éneklő vértje
+5031'>arzgul mennydörgő fokosa
+4350'>asmael
+4440'>asnomad
+5051'>asnomad pusztító botja
+561'>asylum
+4438'>asylux
+3310'>asylux átka
+1976'>asztrálféreg
+3332'>asztrális álca
+3162'>asztrális behemót
+3485'>asztrális elmemarcangoló
+2756'>asztrális hullám
+1821'>asztrális kapocs
+2005'>asztrális polip
+2964'>asztrálméreg
+2940'>asztrálszárnyas
+4400'>asztrálzúzó csáp
+251'>átcsoportosítás
+1879'>áthatolhatatlan köd
+751'>átkos kötődés
+2023'>átkozott bőr
+1784'>átkozott kincs
+6305'>átkozott követő (új)
+296'>átkozott mágia
+3710'>átkozott mágia (új)
+5130'>atmilla
+458'>átok
+3843'>átokeltávolító
+1460'>átokféreg
+5509'>átokkirály
+139'>átokkő
+2140'>átokmanó
+1252'>átokmurgattyú
+3656'>átokmurgattyú (új)
+2889'>átokosztó
+2168'>átokpulzáns
+6150'>átokpulzáns (új)
+2973'>átoksárkány
+6170'>átoksárkány (új)
+2621'>átoksólyom
+6185'>átoksólyom (új)
+2132'>átokszórás
+619'>átruházás
+289'>áttelepítés
+656'>áttérítés
+2390'>atvy morodur
+4118'>augur
+3982'>augur dühe
+938'>augur köpenye
+1860'>augur varázskönyve
+974'>aurafaló
+1510'>auralátás
+1379'>aurapollátor
+4549'>aurgir tőre
+5450'>autentikus kreáció
+1086'>autentikus vámpír
+4233'>autentikus vámpír (új)
+3152'>avatár idézése
+1913'>avengir
+1767'>avengir kívánsága
+2116'>avillis
+3210'>ayahuasca főzet
+843'>az agy kifacsarása
+4255'>az agy kifacsarása (új)
+4046'>az akarat ereje
+2129'>az áldozat szintje
+3610'>az alkotás szentsége
+2762'>az alkotó öröme
+1237'>az álmok hatalma
+4508'>az álmok mestere
+2590'>az álmok oltára
+4516'>az alvilág bővítése
+5760'>az alvilág büntetése
+1804'>az alvó oroszlán
+541'>az alvó szörny
+4330'>az anarchia avatárja
+5623'>az angyalgárda parancsnoka
+522'>az angyalok háborúja
+5058'>az aranysereg stratégája
+5237'>az aratás ideje
+5056'>az árnyak megtestesítője
+3113'>az árnytündérek mérge
+1753'>az ártatlanság kora
+2491'>az átalakulás bőre
+2512'>az átalakulás kora
+3397'>az ébredés fájdalma
+5197'>az egyensúly megteremtője
+3017'>az egyesült entitás döntése
+3293'>az egyszerűség előnye
+2145'>az egyszerűség hatalma
+2750'>az éhínség parányi gyöngye
+5512'>az éjtorony mágusa
+2269'>az elemek ura
+5003'>az élet burjánzása
+1839'>az élet egyensúlya
+2518'>az élet ereje
+320'>az élet és halál kupája
+3784'>az élet és halál kupája (új)
+2255'>az élet fája
+3894'>az élet illúziója
+1797'>az élet íze
+1589'>az élet könyve
+1073'>az élet körforgása
+2866'>az élet oltára
+186'>az élet szava
+668'>az élet tornya
+845'>az élet vize
+5298'>az élet vize (új)
+2997'>az élettelenség megcsúfolása
+2355'>az ellenállás megtörése
+1437'>az ellenfél balszerencséje
+3328'>az ellenség kiismerése
+3891'>az ellenség támadása
+135'>az elme fölénye
+2726'>az elme nyitása
+5504'>az elmúlás szele
+3475'>az első vámpír
+548'>az enyészet hídja
+3591'>az enyészet porladó lovasa
+6307'>az enyészet porladó lovasa (új)
+2543'>az erdő bosszúja
+4418'>az erdő dala
+418'>az erdő lelke
+3402'>az erdők őre
+4498'>az eretnek
+916'>az eretnekek bosszúja
+4557'>az erő áldása
+2709'>az erő felosztása
+33'>az erő ökle
+3016'>az erős ereje
+6269'>az erős ereje (új)
+441'>az erős gyengéje
+2840'>az esszencia elnyelése
+6230'>az esszencia elnyelése (új)
+5059'>az ezüsttorony védőmágusa
+1924'>az idő hercege
+1116'>az idő kereke
+5370'>az idő kereke (új)
+5605'>az idő megtorpanása
+5890'>az idő tornya
+1744'>az időrabló érintése
+4408'>az időrabló pálcája
+1351'>az igazság pillanata
+4236'>az igazság pillanata (új)
+933'>az igazság próbája
+4512'>az illúzió hatalma
+686'>az információ hatalma
+4354'>az inkvizíció kínzómestere
+1714'>az isbai szent bak
+2612'>az istenek hírnöke
+2139'>az istenek küldötte
+1729'>az istenek könnye
+5102'>az istenek rokkája
+450'>az istenek sóhaja
+1229'>az iszonyat tornya
+5245'>az ítélet napja
+4018'>az olcsó büntetése
+1702'>az ongóliantok dühe
+6126'>az ongóliantok dühe (új)
+1600'>az orgorók átka
+1016'>az orgorók hatalma
+1932'>az óriások dühe
+1925'>az óriások fájdalma
+1100'>az orkok öreganyja
+4446'>az őrület dala
+2830'>az őrület fanatistái
+1629'>az őrület temploma
+3505'>az őrült oldal álma
+4422'>az őshangyák istene
+5069'>az ősi hiba
+4444'>az ősmágus
+2176'>az ősmágus kívánsága
+2938'>az ősmágus szájvize
+392'>az őszinteség bajnoka
+3707'>az őszinteség bajnoka (új)
+374'>az ősök bilincse
+3548'>az ősök bosszúja
+2394'>az ősök csarnoka
+5027'>az ősök famulusa
+2178'>az ősök könyve
+4071'>az ősök oltára
+2333'>az ősök szelleme
+6174'>az ősök szelleme (új)
+2070'>az ősök tudása
+2890'>az újjáéledés tornya
+5285'>az újjászületés könyve
+772'>az univerzum kifordítása
+1399'>az univerzum tengelye
+4127'>az úrnő sárkánya
+3192'>az utolsó csata
+981'>az utolsó csók
+3036'>az utolsó mondások könyve
+5376'>az utolsó mondások könyve (új)
+1413'>az utolsó szó
+4319'>az ünnep nyugalma
+4328'>az ölelés
+1301'>az örök élet forrása
+1344'>azbesztagyú arktisz
+3878'>azbesztsörényű pegazus
+6201'>azbesztsörényű pegazus (új)
+1213'>azonnali bűbáj
+13'>azonnali gyógyítás
+1438'>azt mondtam, nem
+3803'>azt mondtam, nem (új)
+1855'>b'waetan
+4223'>b'waetan (új)
+4439'>b. jagumir
+65'>baar-ork
+3250'>báb
+4489'>bábmester
+812'>baghar
+1223'>baghar fétise
+5576'>baghar golyóbisa
+2642'>baghar kívánsága
+5727'>baghar testőre
+2826'>bahn szolgája
+5097'>bájgúnár
+278'>bájital
+3742'>bájital (új)
+2081'>bajnoki aréna
+463'>bajnokok csatája
+769'>bajnokság
+2615'>bájolás
+164'>bakkura
+1769'>bakugrás
+1790'>baljós jelek
+4261'>balladák könyve
+3608'>balliszta
+4072'>bally
+5437'>bálnaevő kajmán
+2692'>balszerencsés quwarg
+2386'>baltazár, a behemót
+4613'>bamba barát
+5490'>bánatos teknős
+909'>bandita
+1918'>banyapók
+1249'>bányarém
+1479'>bányászat szakértelem
+3112'>bányászvorthag
+3503'>barátságos építőmester
+5456'>barátságos manó
+5204'>barátságos teknős
+2998'>barlangcsarnok
+3846'>barlangrendszer
+4009'>barlangtáncos
+3313'>bársony gyilkos
+4927'>barti
+6098'>barukka
+2536'>batkamanó
+2505'>bátor manó
+1514'>bátorság
+6107'>bátorság (új)
+688'>bávatag golombár
+707'>bazaltelementál
+5440'>bazmaon
+4632'>bazmaon gyilkosa
+789'>bean-sidhe
+1581'>becsületes küzdelem
+2492'>beholder mágus
+6271'>beholder mágus (új)
+3833'>békegalamb
+4478'>békés izoláció
+5777'>békés szörnyeteg
+2976'>békés tisztás
+10'>békítés
+941'>béklyó
+4666'>béklyóba verve
+5580'>belethiel úrnő
+1372'>belladonna
+4542'>belónia őrszobra
+4506'>beloran méregdémon
+4505'>beloran méregkobold
+4503'>beloran torzító tekercse
+4039'>belső állkapocs
+5257'>bénító gyűrű
+794'>bérmágia
+1757'>bérmágus
+5386'>bérmágus (új)
+1604'>bérmunka
+2235'>bern, a szutyok
+2514'>bertold, a harcias
+3319'>bestia
+5401'>bestia (új)
+2656'>besúgás
+5924'>beszűkült látókör
+1658'>betakarítás
+2724'>betelgeuse
+5349'>betelgeuse (új)
+820'>betonfal
+4219'>betonfal (új)
+3367'>bianka
+5230'>bibbo
+286'>bibircsók-óriás
+3815'>bíbor anguaxin
+2996'>bíbor mösze
+1159'>bíborgörény
+5650'>bíborhold
+877'>bikacsök
+6309'>bikacsök (új)
+876'>bikaviadal
+2774'>birtoklás
+4459'>bitlandi fivér
+6161'>bizalmi válság
+5695'>biztos információ
+3510'>biztos pénz
+2777'>bjölteodrok
+5387'>bjölteodrok (új)
+2138'>blith
+5305'>blokkoló
+4100'>blokkoló tigris
+3434'>blokkoló vyarg
+3648'>bn'oxrad szaggató
+3143'>bo'adhun csapás
+4520'>bo'adhun kincsesláda
+3059'>bo'adhun tréfa
+3544'>bo'adhun varázsital
+158'>bo-skorpió
+4564'>bobakrome
+4463'>bobó, a tőzegelementál
+4491'>bodom fiai
+1648'>bogyógránát
+2401'>bohócmolad
+5360'>bohócmolad (új)
+3826'>boldog béke
+365'>bolhakutya
+48'>bombagoly
+6291'>bomtar
+6288'>bomtar rendje
+6290'>bomtar varázskönyve
+6289'>bomtar vétója
+242'>borax király
+3778'>borax király (új)
+2069'>borr'tan
+2265'>borun, a bérgyilkos
+907'>borúra derű
+1713'>borzalmak szakadéka
+226'>borzalmas varkaudar
+3776'>borzalmas varkaudar (új)
+3292'>borzalom
+5801'>borzalombogár
+3998'>bosszantó apróság
+4623'>bosszantó teknős
+1156'>bosszú
+529'>bosszúálló
+3725'>bosszúálló (új)
+2524'>bosszúhadjárat
+3939'>bosszúszomjas pegazus
+3237'>boszorkánykirály
+388'>boszorkánylány
+5336'>boszorkánylány (új)
+2397'>boszorkánymester
+498'>brakkara
+3928'>bri'thung, a tolvaj
+178'>bronzpáncél
+84'>bronzsisak
+2600'>bronzsörényű pegazus
+6198'>bronzsörényű pegazus (új)
+6270'>brutálgeddon (új)
+2425'>brutális mancs
+5070'>brutális morf
+5814'>brutális ork
+2071'>brutális szilmill
+736'>brutalitás
+4607'>brutus
+1174'>bűbáj-semlegesítés
+681'>bűbájlidérc
+1114'>bűbájlopás
+1066'>bűbájmásolás
+4291'>bűbájmásolás (új)
+453'>bűbájoldás
+2789'>bűbájos féreg
+637'>bűbájvédelem
+5789'>buborék
+5436'>buborékváros
+5867'>bufa bűbája
+1018'>bufa hírnöke
+4123'>bufa kódexe
+555'>bufa lovagnője
+839'>bufa nevetése
+5425'>bufa nevetése (új)
+660'>bumeráng
+808'>bundás csirmáz
+3798'>bundás csirmáz (új)
+4594'>bundás yeti
+2805'>bunthar
+525'>burástya királynő
+495'>burástya özönlés
+78'>burástyakölyök
+679'>burástyatojás
+2928'>burjánzó bőr
+3336'>burjánzó brothag
+2783'>burjánzó toragfatty
+5638'>burkinátor
+4152'>butítás
+37'>bűvölés
+2657'>bűvös erdő
+4552'>bűvös forrás
+483'>bűvös hajnal
+547'>bűvös lant
+5894'>bűvös spórák
+3204'>bűvös tavacska
+3320'>bűvös tigris
+3170'>bűvös ököl
+6226'>bűvös ököl (új)
+3988'>bűzgombóc
+2066'>bűzös fej
+2509'>büdös zokni
+477'>büntetés
+2634'>büntető
+2722'>büntető féreg
+6034'>büntető gyűrű
+2820'>büntető iszonyat
+287'>büntető praglonc
+4085'>bölcs látomás
+2063'>bölcs szilmill
+595'>bölcs tanító
+5080'>bölcs teknős
+1085'>bölcsesség
+1408'>bölcsőpolip
+4205'>bölcsőpolip (új)
+3168'>bömbölő arénarém
+6049'>börphaug
+3912'>börtjauk tréfája
+704'>caramella
+4483'>catherine férgei
+4964'>céhmester
+2264'>célpontválasztás
+4027'>célzó tűz
+3060'>chaktra vadászeb
+634'>chara-din álma
+5750'>chara-din bűbája
+4437'>chara-din csele
+836'>chara-din döbbenete
+4307'>chara-din döbbenete (új)
+881'>chara-din fattya
+4154'>chara-din fattya (új)
+642'>chara-din fénykora
+598'>chara-din helytartója
+1226'>chara-din káoszlovagja
+4250'>chara-din káoszlovagja (új)
+800'>chara-din küldetése
+2933'>chara-din követője
+650'>chara-din lesújt
+4162'>chara-din lesújt (új)
+583'>chara-din macskája
+1720'>chara-din monolitja
+3269'>chara-din óhaja
+662'>chara-din oltára
+589'>chara-din papja
+763'>chara-din talizmánja
+827'>chara-din temploma
+5248'>chara-din végső napja
+3013'>cheotox
+2156'>chloe
+5408'>chloe (új)
+3180'>chosuga
+6256'>chosuga (új)
+4669'>chosuga kedvese
+4393'>cibáló magszim
+5620'>cikázó villám
+3161'>clod onar
+1044'>connor wartause
+6094'>connor wartause (új)
+4125'>corlan
+5767'>corlan bűbája
+4001'>cres, a kéregető
+5865'>crimson
+2790'>csábítás
+18'>csábmosoly
+965'>csákányos blendor
+103'>csala-csíny csilla
+5868'>csalafinta manó
+3880'>csáp entitás
+4096'>csáp-istenség
+1190'>csapdaészlelés
+1793'>csapdakészítés
+4059'>csáphegy
+2326'>csápmester
+5327'>csápmester (új)
+2596'>csápos mélységi motyogó
+2979'>csápos otagi
+5556'>csár apó
+3018'>császári dekrétum
+5109'>császári fejlesztőkő
+5060'>császári harcmester
+3117'>császári kínmester
+1712'>csatamágus
+5635'>csattogó krabber
+5879'>csekély motiváció
+6275'>cseles krabber
+2677'>cselvetés
+3242'>csendes teokrász
+5713'>cseng hósárkány
+3914'>cseppfolyós idő
+5484'>cseppkőfivér
+41'>csere
+2194'>cserebogár
+968'>csillagbajnok
+1377'>csillaghullás
+4320'>csillagszóró
+3421'>csillezsálya
+1739'>csipkerózsika álma
+6303'>csipkerózsika álma (új)
+935'>csoda
+425'>csodabogár
+604'>csodadoktor
+5597'>csodafegyver
+414'>csodaszarvas
+1904'>csókmágia
+1147'>csónak
+4482'>csontamulett
+5255'>csontépítés
+2143'>csontfal
+2114'>csontgólem
+2149'>csonthalom
+5543'>csontherceg
+1674'>csontkés
+5466'>csontkovács
+4496'>csontkupola
+1945'>csontlepke
+3349'>csontolvadás
+1472'>csontpálca
+4987'>csontpozdorja
+1220'>csontszurony
+4541'>csonttű
+50'>csontváz
+3668'>csontváz (új)
+954'>csontváz harcos
+207'>csontváz lord
+1970'>csordaszellem
+2084'>csótánykirálynő
+5843'>csuhi
+2222'>csupacsáp csillag
+1208'>csupasz izom
+2530'>csuszpit
+6255'>csuszpit (új)
+5547'>csutermoki
+4544'>csúzlis manó
+1458'>csökönyös öszvér
+3560'>csöppnyi nyugalom
+2767'>csöpögő csápolat
+2897'>csöpögő sav
+5307'>csöpögő sav (új)
+4142'>cunami teknős
+5792'>cyron
+2001'>daergaoth lord
+4675'>daes mo'ran
+5891'>daes mo'ran fejszéje
+5619'>dag'maug plazmaköpülő
+866'>dagály
+739'>dálámár
+5832'>danielle wildrose
+419'>darázsfelhő
+5268'>dárdazuhatag
+162'>darkseid
+3679'>darkseid (új)
+324'>daronel
+5120'>deahed, az ötödik
+3875'>deego
+4560'>degenerált démoncsökevény
+2009'>degradálás
+611'>degradátor
+1777'>dehidrátor
+837'>déja vu
+5428'>deja vu (új)
+2862'>dekird, a kaszás
+6164'>dekird, a kaszás (új)
+4500'>delga
+486'>déli napsütés
+506'>délibáb
+5717'>demizra
+3181'>démoni bál
+5797'>démoni bölcsesség
+4511'>démoni érintés
+3606'>démoni kántálás
+5768'>démoni kisülés
+4628'>démoni sziget
+3178'>démonparázs
+6097'>démonparázs (új)
+3315'>démonporonty
+5357'>démonporonty (új)
+1258'>démontetű
+3413'>démonölő
+2647'>denerissa
+2113'>denerissa éneke
+237'>denevér szimbólum
+5273'>dermedt torofil
+2448'>dermesztés
+709'>destabilizátor
+4220'>destabilizátor (új)
+1675'>destruktív fúzió
+2765'>detonáló amulett
+277'>deus ex machina
+3732'>deus ex machina (új)
+3568'>deviancia
+3002'>dexkill, a pusztító
+4488'>dexter, a quwargkutató
+5626'>dezabukodonor
+3000'>dezintegráció
+3035'>dezintegráló sugár
+2803'>dezintegrátor
+5103'>dg'mhaotrodon elnyelő
+5572'>dhl'emolatzz
+2239'>dhojaktra
+5383'>dhojaktra (új)
+1433'>diána
+3366'>diána kívánsága
+1418'>diána tánca
+4362'>dicsekvő teknős
+4144'>dimenziócsere
+674'>dimenziórés
+4049'>dimitrij
+271'>direkt kontaktus
+3781'>direkt kontaktus (új)
+5123'>ditanoh csápja
+5149'>ditanoh tarkótüskéje
+5145'>ditanoh, a bajnok
+1383'>diuretikus kráken
+4237'>diuretikus kráken (új)
+2879'>diz'ox nyílpuskás
+5091'>diz-oh, a hős
+1968'>diz-ruptor
+3902'>dj'arekh tárcsa
+3288'>dl'orkhaugruk
+4565'>dobótőr
+3115'>dohu féreg
+4550'>dombi óriás
+2821'>dombi yeti
+5015'>domináns morf
+1075'>don caloni
+6249'>don caloni (új)
+1946'>doorwalth
+6180'>doorwalth (új)
+1880'>doppleganger
+2214'>dor
+4646'>dornodon bűbája
+1486'>dornodon hava
+229'>dornodon küldetése
+2939'>dornodon követője
+559'>dornodon lovagnője
+4298'>dornodon lovagnője (új)
+3625'>dornodon ministránsa
+83'>dornodon oltára
+605'>dornodon papja
+1634'>dornodon szentélye
+240'>dornodon temploma
+702'>dornodon visszavág
+3757'>dornodon visszavág (új)
+1141'>dorony-duda
+284'>dort amessix
+3645'>dr'thanox vérivó
+2732'>drakolder citadella
+6014'>drakolder csapás
+925'>drakolder érdemrend
+1423'>drakolder mágus
+2802'>drakolder poronty
+3043'>drakolder rémúr
+1037'>drakolder testőr
+2735'>drakolder varázslat
+2652'>drakolich
+6233'>drakolich (új)
+4424'>dranadáni kőtörő
+62'>drasmólyom
+600'>drónkeselyű
+678'>drótháló
+372'>drótszőr
+1157'>drótszőrű pincsi
+1595'>drud
+2539'>druida
+6106'>druida (új)
+3407'>druida adeptus
+3405'>druida csapda
+3403'>druida mester
+3409'>druida tudós
+44'>duer-ork
+85'>dupla szintlépés
+3665'>dupla szintlépés (új)
+705'>dupla vagy semmi
+4209'>dupla vagy semmi (új)
+2366'>duplacsavar
+236'>duplikátum
+3910'>dúvad
+2971'>duzzadó féreg
+3330'>dübörgő adrenalin
+292'>dühkitörés
+5540'>dymas
+2595'>dzsungel
+5286'>döbbenetes fúzió
+3442'>dögbűzös liliom
+612'>dögkeselyű
+1447'>döglégy
+4486'>dögnyúzó
+787'>dögvész
+5129'>döntő fölény
+2719'>ebédszünet
+1051'>ében hadúr
+768'>ében halálhajcsár
+4199'>ében halálhajcsár (új)
+5134'>ében hammogó
+602'>ében harcos
+3663'>ében harcos (új)
+2555'>ében íjász
+5389'>ében íjász (új)
+6039'>ében kehely
+4352'>ében morf
+1263'>ében munkafelügyelő
+4171'>ében munkafelügyelő (új)
+2641'>ében thargodan
+3048'>ében tigris
+5479'>ében triton
+899'>ében vitéz
+3590'>ébenfekete sárkány
+904'>éber vadászkutya
+2729'>éberség
+492'>ébred az erdő
+4371'>ébredés
+5072'>ébren álmodom
+6056'>édesvízi teknős
+3488'>edharati, a bűbájmester
+5831'>edralian
+3509'>edzőterem
+4926'>éfaon
+2489'>egérút
+2190'>egészségpróba
+3840'>égető fénysugár
+852'>égető tekintet
+778'>egoizmus
+2362'>egokínzás
+1515'>egyenlő esélyek
+2870'>egyesített lelki energia
+3151'>egyesült erő
+4574'>egyet mondok
+169'>egyszerűsítés
+703'>együttérzés
+211'>éhínség
+853'>ehknagorhu
+5358'>ehknagorhu (új)
+5794'>éjfatty plazma
+5696'>éjfatty sóhaj
+467'>éjféli pusztítás
+1428'>éjkornis
+810'>éjmágus
+829'>éjmágus köpenye
+738'>éjmágus tükre
+3920'>éjpók
+770'>éjsárkány
+5423'>éjsárkány (új)
+4147'>éjvándor
+1342'>ekharion
+1928'>ekharion bébi
+5474'>ektoplazma transzportálás
+1593'>el dongo
+3189'>el miacchi
+3068'>elátkozott építőmester
+4665'>elbájolt xenomorf
+3566'>eldüeni vándor
+355'>elektromos angolna
+2363'>elektromos kéz
+2915'>elektromos lehelet
+1358'>elektromos pajzs
+1957'>elektromos rája
+2385'>élelmiszerraktár
+5535'>elembivos
+5631'>elemekre bontás
+2315'>elementál fatty
+3597'>elementál trió
+5869'>elementáris fúzió
+2450'>elemi argon
+5314'>elemi argon (új)
+714'>elemi földcsapás
+3072'>elemi pulzátor
+1863'>elemi rin
+3739'>elemi rin (új)
+1936'>elemi védelem
+4286'>elemi védelem (új)
+1287'>elemi vízcsapás
+5707'>elenios bűbája
+734'>elenios csábítása
+4031'>elenios csodája
+268'>elenios küldetése
+2950'>elenios követője
+536'>elenios lovagnője
+4302'>elenios lovagnője (új)
+87'>elenios oltára
+1464'>elenios papnője
+743'>elenios szentélye
+283'>elenios temploma
+5421'>eleonóra
+4674'>élet és halál ura
+3465'>élet teremtése
+4534'>életadó
+1025'>életenergia
+5000'>életenergia gyűjtés
+5670'>életenergia túltöltődés
+3884'>életerő
+5653'>életerős halandó
+963'>életesszencia
+2311'>életfolyam
+2111'>életgyár
+2540'>életkristály
+5455'>életkutató
+1161'>életpajzs
+648'>életszívás
+218'>életszívó kard
+3468'>életszívó kullancs
+137'>életösztön
+3428'>eleven épület
+2473'>eleven rettenet
+5403'>eleven rettenet (új)
+993'>elévülés
+60'>elf
+1457'>elf bárd
+4586'>elf gyógyító
+1820'>elf mesterharcos
+3085'>elfajzott enkala
+5779'>elfeledett börtön
+4642'>elfeledett szingularitás
+2925'>elhullik a gyenge
+1072'>eliana
+4232'>eliana (új)
+615'>elimináció
+5507'>elit búvárharcos
+1875'>elit gárdista
+1104'>elit palotaőr
+5471'>elkorcsosult sziránusz
+5783'>elkötelezett
+4037'>ellenálló goblin
+5684'>ellencsapás
+21'>ellenvarázslat
+3793'>ellenvarázslat (új)
+2206'>elmanakh
+4128'>elmeabroncs
+3348'>elmefacsarás
+6089'>elmefacsarás (új)
+5715'>elmefagyasztó yeti
+5019'>elmefaló hurd
+1414'>elmeféreg
+5011'>elmekondicionáló
+2480'>elmemorzsolás
+1028'>elmepajzs
+4336'>elmerágó
+5798'>elmerombolás
+5510'>elmerült torony
+5166'>elmesatu
+3012'>elmeszaggató karmok
+4494'>elmeszívás
+3312'>elmeszonda
+6264'>elmeszonda (új)
+3517'>elmeszűkítés
+5758'>elmeuralom
+2042'>elmúlás
+5231'>elnyelés
+3153'>élő bűbáj
+1347'>élő fal
+317'>élő útvesztő
+5345'>élő útvesztő (új)
+2374'>élőáldozat
+4989'>előfutár
+24'>élőhalott-pusztítás
+1865'>élőholt gárdista
+5241'>élőholt kémek
+1078'>élőholt mágus
+3750'>élőholt mágus (új)
+596'>élőholt mirg
+3511'>élőholt númak
+3305'>élőholt pegazus
+3141'>élőholt pöffeteg
+1121'>élőholt quwarg
+4279'>élőholt quwarg (új)
+1952'>élőholt rituálé
+701'>élőholt sullár
+3390'>élőholt tigris
+5054'>előny a semmiből
+2658'>előnyös üzlet
+4353'>előrelépés
+3816'>előremeredő szarv
+116'>élősködő
+523'>élőváros
+3427'>elrettentés
+2263'>elsius, a gyógyító
+1378'>első vér
+5513'>elsüllyedt ládika
+435'>elszabadult indulat
+807'>elterelés
+5546'>éltető morf
+912'>éltető tettvágy
+5634'>éltető tűz
+4485'>eltörlés
+3893'>elveszett kincs
+2352'>elveszett tudás
+3479'>elviselhetetlen fejfájás
+32'>elzárás
+976'>elözönlés
+1183'>ember kalandozó
+1145'>emberevő
+5873'>emésztő köd
+3201'>emlák
+452'>emléktolvaj
+840'>enciklopedia fantasia
+2575'>éneklő szarvas
+2372'>energiacsapolás
+3166'>energiacsóva
+5823'>energiadagasztás
+2065'>energiaelementál
+1134'>energiafolyam
+6101'>energiafolyam (új)
+2980'>energiagyémánt
+1940'>energiaital
+4184'>energiaital (új)
+5912'>energiakatarzis
+4616'>energiakígyó
+14'>energiakitörés
+796'>energiakoncentráció
+3703'>energiakoncentráció (új)
+6008'>energiakristályosító
+5140'>energiamotyogó
+2030'>energiapajzs
+4383'>energiapréselés
+2594'>energiasólyom
+6114'>energiasólyom (új)
+2304'>energiaspirál
+5410'>energiaspirál (új)
+470'>energiaszellem
+3952'>energiatranszformáló csáp
+1469'>energiatüske
+2625'>energizáció
+2324'>enor a ravasz
+581'>ent kertész
+5160'>enyészet
+5217'>enzimfaló
+3467'>éonvölgyi númak
+5871'>epikus emlékmű
+5857'>építés
+891'>építész
+38'>építkezés
+3114'>építő rakshallion
+1450'>epokitféreg
+4156'>epokitféreg (új)
+1168'>épület teremtése
+401'>erdei manó
+3230'>erdei rém
+1783'>erdei tündér
+2400'>érdekszövetséges
+755'>érinthetetlenség
+1643'>erőd
+5693'>erődemonstráció
+560'>erőegyensúly
+2548'>erőfitogtatás
+1939'>erőgyűjtés
+4124'>erőnyerő
+34'>erőpajzs
+2189'>erőpróba
+3440'>erős goblin
+4994'>erősítés
+5246'>erősödő kántálás
+2646'>erszényes elkarog
+3466'>értelmetlen rombolás
+1623'>ervdő
+4234'>ervdő (új)
+3090'>érzékelő csáp
+6072'>érzelmes téma
+1466'>érző szívű dromedár
+2552'>esélyleső
+621'>esélytelenség
+5511'>espada
+3316'>esszenciakapocs
+1061'>esszenciakristály
+4231'>esszenciakristály (új)
+4083'>esszenciaőr
+3649'>esszenciavámpír
+1603'>estariol
+4275'>estariol (új)
+1554'>északi druida
+1620'>északi tűzsárkány
+5375'>északi tűzsárkány (új)
+134'>éteri fény
+92'>étkezési homár
+173'>evaporőr
+956'>evolúció
+4114'>ewgbert forrása
+4121'>ewgbert megszakítása
+5111'>ewgbert titka
+4134'>ewgbert, a mágus
+2151'>exhumálás
+3916'>exterminálás
+5649'>ezd'raothon magmadaráló
+5110'>ezer világ őre
+1590'>ezeréletű
+3864'>ezeréves alkotás
+5745'>ezeréves drakón
+3896'>ezeréves lélek
+4331'>ezeréves torony
+266'>ezoterikus mardel
+5799'>ezüst agyar
+4264'>ezüst szityola
+4316'>ezüsthajnal
+1862'>ezüstmágusok tornya
+445'>ezüstsereg
+3099'>ezüstsörényű pegazus
+6197'>ezüstsörényű pegazus (új)
+5138'>ezüstveretes pajzs
+144'>fabontó szójer
+2146'>fagymester
+5029'>fagyorkán
+252'>fair play
+567'>fairlight állovagja
+4249'>fairlight állovagja (új)
+901'>fairlight bankár
+145'>fairlight bankja
+5883'>fairlight bűbája
+5606'>fairlight bölcsessége
+744'>fairlight cselszövése
+1676'>fairlight játéka
+330'>fairlight küldetése
+2958'>fairlight követője
+90'>fairlight oltára
+594'>fairlight papja
+3658'>fairlight papja (új)
+341'>fairlight pusztító masinája
+3133'>fairlight sárkánya
+5424'>fairlight sárkánya (új)
+344'>fairlight temploma
+655'>fairlight trükkje
+3797'>fairlight trükkje (új)
+138'>fairlight vihara
+959'>fairlight villámai
+3324'>fájdalmas búcsú
+3828'>fakítás
+112'>fáklya
+1186'>fal
+395'>falkavezér
+3767'>falkavezér (új)
+1089'>falu
+26'>falvastagítás
+5685'>familiáris teremtése
+5655'>fanatikus ganüid
+3850'>fanatikus harcos
+2568'>fanatikus szamuráj
+1983'>fanatikus wart
+5922'>fanatista minotaurusz
+197'>fantalas
+5344'>fantalas (új)
+1456'>fantom
+382'>fantomsárkányok
+3765'>fantomsárkányok (új)
+3457'>fáradhatatlan régész
+1547'>fáradtság
+4685'>farkasgazda
+2126'>farkastestvérek
+6037'>farmolás
+1224'>fatty lord
+5211'>fatty nőstény
+5433'>fatty víznyelő
+5146'>fattyak hordája
+630'>fattyak szaporodása
+613'>fattyak teremtése
+4997'>fattylárva
+149'>fátyol
+3006'>fátyoltehén
+889'>fatönk
+2806'>fealefel throm
+1371'>fedett verem
+1169'>fegyver szakértelem
+4215'>fegyver szakértelem (új)
+1333'>fegyverbolt
+1644'>fegyverkovács
+3759'>fegyverkovács (új)
+1109'>fegyvermester
+1656'>fegyverrántás
+1818'>fegyverszünet
+5481'>fehér delfin
+5682'>fehér glóbusz
+2015'>fehér gyógyitó ital
+3066'>fehér kakas
+3817'>fehér manó
+2449'>fehér tigris
+6227'>fehér tigris (új)
+2867'>fehérbérc temploma
+3255'>fehérmágia
+2829'>fejvadász
+5337'>fejvadász (új)
+1334'>fejvadász klán
+5448'>fekete albatrosz
+4388'>fekete féreg
+3183'>fekete főnix
+6076'>fekete föld
+793'>fekete griff
+1989'>fekete gyík
+2082'>fekete hólyag
+2375'>fekete kakas
+811'>fekete kehely
+2908'>fekete könnyek
+2418'>fekete lovag
+6132'>fekete lovag (új)
+1659'>fekete lyuk
+4563'>fekete patkány
+2271'>fekete péter
+2003'>fekete ölész
+1922'>fekete özvegy
+6127'>fekete özvegy (új)
+3123'>feketemágia
+3903'>féktelen imádat
+3609'>felcser
+2204'>felderítés
+4'>felejtés
+2884'>felejtő féreg
+57'>félelemjáró
+3684'>félelemjáró (új)
+3949'>félelmetes lovas
+2181'>félénk yathmog
+4959'>felesleges kockázat
+4976'>felfelé a lejtőn
+2695'>felfrissülés
+4370'>felföldi árnylepke
+4415'>felhízott manavortex
+2662'>felkészülés
+3147'>felnövekvő nemzedék
+6263'>felnövekvő nemzedék (új)
+3148'>felső szférák angyala
+700'>felsőbbrendűség
+5888'>felszabadítás
+4029'>felszabadító kacagás
+5551'>felszabadító lélektánc
+3'>feltámasztás
+1129'>feltételes gyógyítás
+325'>fémbontó szójer
+2463'>fenix
+2303'>fényelementál
+4033'>fényes griff
+2182'>fényfőnix
+5406'>fényfőnix (új)
+4347'>fénylő horizont
+6023'>fénylő manó
+4322'>fenyődísz
+4327'>fenyőőr manó
+4321'>fenyőóriás
+6024'>fényrobbanás
+2507'>fénysárkány
+5352'>fénysárkány (új)
+2106'>fénytestvér
+3216'>fénytörés
+2307'>fényúr
+4396'>féregmester
+2416'>féregszint
+2504'>ferge, a hős
+1507'>ferratáció
+821'>fertőzés
+3205'>fertőzött ent
+5872'>fertőzött manonc
+2291'>ferwagor kincse
+2290'>ferwagor, elementál lord
+4504'>fetus, a haragos
+1677'>feudális örökség
+2256'>fezmin gépezete
+5167'>fifikás smug
+4543'>figyelő szemek
+3953'>fintor
+5542'>fintor fejszéje
+3525'>fizetett tehetség
+246'>flavius
+4051'>flo
+3534'>fluxusfaló vyarg
+3604'>fluxuskamra
+5192'>főapát
+1550'>fóbia
+1110'>fogadó
+4295'>fogadó (új)
+472'>fogolycsere
+3991'>fojtogató köd
+3617'>fokozott burjánzás
+2995'>fókuszált mágia
+2974'>fókuszgömb
+2697'>fókuszpenge
+3024'>folrang
+1131'>folyó
+3983'>főnix herceg
+6254'>főnix herceg (új)
+5363'>főparancsnok (új)
+1203'>fordulat
+3819'>forreyn
+2628'>forrósítás
+2736'>fortyogó motyogó
+3384'>fosszilis csontok
+3907'>fr'ngekar demonstrátor
+666'>fregnikus plazma
+2606'>frinadali, az akadémikus
+5497'>fuldoklás
+1718'>fullánk
+2404'>fűraktár
+1528'>fúria
+3835'>furmányos egon
+4092'>furmányos pegazus
+1200'>furulya
+2685'>fűszer
+982'>futóhomok
+1295'>fúzió
+5612'>fúziós bilincs
+1478'>függőhíd
+1416'>fylro
+1470'>fürdő
+6277'>fürge krabber
+3274'>fürge rhemedyl
+121'>fürgülés
+2772'>fürkésző
+2932'>füvészkert
+4928'>fywl, a hatalmas
+797'>földanya
+6235'>földanya (új)
+1380'>földanya amulettje
+6248'>földanya amulettje (új)
+5065'>földanya átka
+3578'>földanya bölcsessége
+649'>földanya csókja
+1422'>földanya erdeje
+1822'>földanya gyümölcsei
+1886'>földanya kegyeltje
+4297'>földanya kegyeltje (új)
+448'>földanya közbeszól
+444'>földanya ligete
+6173'>földanya ligete (új)
+1303'>földanya óvó keze
+1353'>földanya paradicsoma
+2078'>földelementál
+298'>földhányás
+437'>földharc
+6109'>földharc (új)
+1489'>földindulás
+464'>földmozgás
+114'>földrengés
+715'>földöntúli ragyogás
+892'>förtelemféreg
+4538'>förtelemzombi
+3449'>förtelmes kriptod
+2260'>gaddar
+5299'>gaddar (új)
+5287'>gaddar ultimátuma
+3639'>gakk, az észak ura
+6063'>galaktrosz
+3462'>galargamoth
+2162'>galetki bárd
+2161'>galetki hadvezér
+5334'>galetki hadvezér (új)
+2431'>galetki helytartó
+2067'>galetki kém
+2704'>galetki lárva
+3081'>galetki mágustanonc
+4392'>galetki sebész
+2335'>galetki szájhős
+3837'>galetki szanitéc
+3074'>galetki testőr
+2353'>galetki varázskő
+3938'>gáncsoló farok
+556'>gandor
+6110'>ganüid csapatépítő
+6178'>ganüid dolgozó
+4968'>ganüid ifjonc
+5179'>ganüid kaptár
+5259'>ganüid kultivátor
+4991'>ganüid mágusfaló
+5210'>ganüid matematikus
+6184'>ganüid nagymester (új)
+6040'>ganüid paraprotektor
+6168'>ganüid szakaszparancsnok
+5674'>ganüid tojómester
+5125'>ganüid vigyázó
+5260'>ganüidvadászat
+5731'>garabonciás
+5142'>gárdakapitány
+5544'>gargantua rája
+2202'>gargol
+3239'>garling kristály
+61'>garokk
+2094'>gatko
+192'>gátvakond
+4946'>gazdatest
+3651'>gázelementál
+2429'>gázturbina
+1905'>gebarrian, az utazó
+3023'>gemina
+2909'>gemina akarata
+1511'>gemina amulettje
+5353'>gemina amulettje (új)
+2918'>gemina aurája
+1279'>gemina balzsama
+5034'>gemina gyógyitala
+5622'>gemina könnyei
+2310'>gemina porcelánkutyája
+5124'>genrath vérmedve
+5886'>geomi, a gömböc
+3986'>gerincféreg
+2740'>ggót
+3284'>gh'raiton ölész
+4363'>ghallai faló
+3831'>ghartakh
+4678'>gigantikus gyémántmancs
+4403'>gigantikus lovas
+3052'>gigantikus manipulátor
+5093'>gigantikus megarobbanás
+2712'>gigantikus növekedés
+5037'>gigantikus tábortűz
+4595'>gigantoszaurusz
+5088'>giganüid
+12'>gigaököl
+3672'>gigaököl (új)
+1262'>gitonga
+3671'>gitonga (új)
+2627'>gladiátor
+1811'>gladiátorvért
+926'>glória
+3522'>glr'vtugar vércsapoló
+3550'>glu'glivar, a megsemmisítő
+70'>gnóm
+3224'>gnóm bilincs
+5548'>gnóm búvár
+1431'>gnóm katapult állomás
+809'>gnóm kutatóállomás
+1443'>gnóm mágus
+1032'>gnóm szolgáló
+1910'>gnómlak
+1835'>gnorrathi vérfarkas
+2332'>goblin
+4366'>goblin berzerker
+4002'>goblin daráló
+3940'>goblin ezermester
+5212'>goblin fúrótorony
+4497'>goblin futószalag
+5796'>goblin fürkész
+5183'>goblin hajcsár
+3282'>goblin harci kiáltás
+3527'>goblin harcos
+2427'>goblin horda
+2347'>goblin katona
+3448'>goblin kereskedő
+3623'>goblin kulacs
+4003'>goblin kutató
+2402'>goblin kürt
+5361'>goblin kürt (új)
+5148'>goblin kürtös
+4378'>goblin logisztikus
+5599'>goblin mágia
+2384'>goblin mágus
+3015'>goblin mészáros
+5844'>goblin nektár
+4074'>goblin nyílpuska
+2338'>goblin orgyilkos
+5309'>goblin orgyilkos (új)
+4929'>goblin pengevirtuóz
+5813'>goblin rabló
+4132'>goblin régész
+5459'>goblin szabotőr
+3302'>goblin szurkáló
+6284'>goblin takarító
+4676'>goblin vajákos
+2411'>goblin várúr
+3531'>goblin védőmágus
+2461'>goblin vezér
+5354'>goblin vezér (új)
+2460'>goblin ügyeskedő
+5394'>goblin ügyeskedő (új)
+3486'>goblintanya
+5082'>gohma
+66'>goldugar
+2107'>gólemformázás
+2814'>gólemgyurmázás
+4026'>gombapók
+2983'>gonhard, a féregkutató
+2096'>gonosz szilmill
+3342'>gontasho
+1503'>gontrak alkuja
+1568'>gontrak gyűrűje
+1167'>gonyolék
+2861'>goombar
+2907'>gorath lárva
+1565'>gorhmad féreg
+1027'>gormaffi gormaff
+5162'>gormathion bosszúja
+5683'>gormug parittyásai
+52'>gorombilla
+3516'>goslak
+2856'>gothag döglidérc
+389'>gottmog
+3714'>gottmog (új)
+101'>grákó denevér
+2158'>gran'darr
+1805'>gránátcsapda
+806'>gránit őrszobor
+2439'>gránitbőr
+4055'>granitoid
+205'>grath morphus
+588'>griff-fióka
+345'>griffőnix
+3789'>griffőnix (új)
+723'>grifftojás
+2720'>grimor
+5593'>grobox fluxustörő
+106'>grok-képződmény
+3685'>grok-képződmény (új)
+3103'>groxmati átokmanó
+832'>gruangdag
+6237'>gruangdag (új)
+1548'>gruangdag amulettje
+3744'>gruangdag amulettje (új)
+3206'>gruangdag haragja
+5052'>gruangdag harci dobja
+6064'>gruangdag szentélye
+590'>gruangdag testőre
+3530'>gruangdag tigrise
+671'>gruangdag vára
+1993'>gubbó
+3346'>guldor
+3334'>guldor tekintete
+2804'>guolg császár
+4951'>gusztustalan féreg
+1233'>gwendolen
+3266'>gwill
+2601'>gyakás
+442'>gyászbeszéd
+2941'>gyászoló mourg
+1302'>gyászszertartás
+1810'>gyáva féreg
+654'>gyávaság
+4590'>gyémánt fókuszkristály
+5807'>gyémánt végzetúr
+2813'>gyémántgólem
+1817'>gyémántsárkány
+6220'>gyémántsárkány (új)
+2887'>gyémántsörényű pegazus
+88'>gyenge méreg
+2649'>gyengeség
+614'>gyengítő lehelet
+1151'>gyermekáldás
+799'>gyevi bíró
+1244'>gyíkember
+2285'>gyilkos erőd
+1678'>gyilkos fegyver
+1645'>gyilkos íj
+2165'>gyilkos karmok
+1785'>gyilkos manó
+4186'>gyilkos manó (új)
+1102'>gyilkos méreg
+3754'>gyilkos méreg (új)
+76'>gyilkos mókus
+2098'>gyilkos puffancs
+3416'>gyilkos pöröly
+1256'>gyilkos sallank
+3686'>gyilkos sallank (új)
+2673'>gyilkos sólyom
+2124'>gyilkos szellem
+2090'>gyilkos szilmill
+2885'>gyilkostüzű gyémánt
+5539'>gülüszem
+3314'>gümőfejű ottó
+665'>gyógyítás
+2011'>gyógyító érintés
+3433'>gyógyító fény
+2306'>gyógyító hadtest
+3946'>gyógyító kamra
+2679'>gyógyító mancs
+3396'>gyógyító motyogó
+3480'>gyógyító rakshallion
+5784'>gyógyító rúna
+1978'>gyógyító sámán
+2359'>gyógyító szellő
+81'>gyógykenőcs
+640'>gyógymógy
+742'>gyógysugár
+3808'>gyónás raiának
+6113'>gyónás raiának (új)
+3235'>gyors növekedés
+2377'>gyors reflex
+5272'>gyors teleportáció
+3852'>gyors ütés
+2191'>gyorsaságpróba
+4458'>gyorskezű trix
+3571'>győzelem vagy bukás
+3301'>gyűlés
+2926'>gyűlésterem
+672'>gyöngymangó bokor
+2788'>gyötrő féreg
+321'>göcsörtös bunkó
+4181'>göcsörtös bunkó (új)
+5855'>gömbpuffancs
+1101'>gömbvillám
+4303'>gömbvillám (új)
+527'>gömböc
+2321'>görényteknőc
+5306'>görényteknőc (új)
+1758'>görgőte
+1191'>haarding-féreg
+1042'>haarkon
+4266'>haarkon (új)
+992'>haarkon darazsai
+1024'>haarkon dühe
+4246'>haarkon dühe (új)
+2237'>haarkon kegyence
+1049'>haarkon szolgája
+1038'>haarkon öregkora
+3773'>haarkon öregkora (új)
+940'>háborgó tenger
+4934'>háborúmester
+1013'>hadiadó
+4526'>hadiállapot
+3653'>hadicsel
+502'>hadisarc
+1283'>hadiszerencse
+4016'>hadititok
+1823'>hadizsákmány
+1618'>hadroszaurusz
+367'>hadvezér
+471'>hadüzenet
+3379'>hájas okerón
+2415'>hájas worpel
+4011'>hajdani hős
+2232'>hajítógép
+5413'>hajítógép (új)
+1908'>hajnali harmat
+2046'>hajtóvadászat
+508'>hála
+2640'>halálaura
+1841'>halálbáró
+476'>halálcsapda
+4141'>haláldémon
+1868'>halálelementál
+3091'>halálgömb
+6091'>halálgömb (új)
+2337'>halálhozó
+1975'>haláljáró
+1162'>halálkapu
+2436'>halállista
+422'>halálmadár
+5297'>halálmadár (új)
+2468'>halálmester
+5404'>halálmester (új)
+1931'>halálóriás
+6158'>halálóriás (új)
+3014'>halálos faroktüske
+2775'>halálos káprázat
+1916'>halálos kór
+3186'>halálos litánia
+5071'>halálos morf
+212'>halálos sugárzás
+2153'>halálos szerelem
+1640'>halálosztó káin
+3042'>halálosztó klam
+465'>halálosztó pocok
+4244'>halálosztó pocok (új)
+2091'>halálparancs
+1499'>halálpenge
+1500'>halálsikoly
+682'>halálsugár
+1509'>haláltánc
+2406'>haláltáncos
+5914'>haláltündér
+4010'>halászat
+4099'>halhatatlan esszencia
+2328'>halhatatlan klántag
+2197'>halhatatlan klánvezér
+3126'>halhatatlan kötés
+230'>halhatatlanság
+5679'>hálócsapda
+5518'>halott gondolatok
+5668'>hálóvetés
+430'>halvány reménysugár
+4285'>halvány reménysugár (új)
+117'>halvaszületett
+2533'>hamis arany
+1517'>hamis istenek
+5356'>hamis istenek (új)
+2676'>hamis vacsora
+4647'>hammurapi ősfortyanat
+1708'>hamuelementál
+1453'>hamupók
+5045'>hangosan motyogó
+376'>hangrobbanás
+3941'>haragos teknős
+765'>haragvó istenek
+5694'>harci béka
+4990'>harci induló
+1624'>harci mágus
+4235'>harci mágus (új)
+2155'>harci mutáns
+1982'>harci sámán
+1350'>harci szekér
+4224'>harci szekér (új)
+2148'>harci törpe
+5624'>harci zene
+3989'>harcias darázs
+5780'>harcias griff
+1819'>harcias manó
+4175'>harcias manó (új)
+691'>harcművészet
+2868'>harcos amazon
+3027'>harcos hárpia
+3963'>harcostárs
+5173'>harfori szent
+5864'>harherron
+2682'>hármas büntető osztag
+2270'>hármas idézés
+2810'>három a galetki igazság
+552'>harq al-ada
+1297'>harsona
+3209'>hártyás dermesztő
+1984'>hártyás lemúr
+2371'>hártyás szárnyak
+5005'>hasogató
+2846'>hasonlót a hasonlóval
+4967'>hasznos kis csel
+4680'>hatalmas bűvölés
+4521'>hatalmas magszim
+6019'>hatalmas manó
+3011'>hatalomcsáp
+4581'>hatalomkristály
+4662'>hatalomvágy
+3267'>hatalomvarázs
+5281'>határozott tagadás
+1814'>hatásnövelő furfang
+2770'>hatásvadászat
+5136'>havasi ember
+1519'>hazahívás
+3376'>házikedvenc
+258'>hebrencs csapda
+3867'>hebrencs teknős
+1432'>hegyi góliát
+68'>hegyi rák
+4477'>hegymélyi drakón
+3007'>hegymélyi hoorauk
+4004'>hegymélyi keltető
+3818'>hegymélyi kúra
+2718'>hegymélyi mágus
+1999'>hegymélyi mamut
+3508'>hegymélyi tánc
+4146'>hegymélyi vegetáció
+1362'>hegyomlás
+562'>helvir
+5300'>helvir (új)
+2061'>helyan
+680'>helytartói jogar
+791'>hendiala
+6236'>hendiala (új)
+3574'>hendiala intrikája
+1319'>hendiala láncai
+752'>hendiala mosolya
+5053'>hendiala pillantása
+514'>heraldika
+579'>hét csapás
+5426'>hét csapás (új)
+5117'>hét törpe
+4426'>héteoszix, a sógólem
+4629'>hétfejű hidra
+1754'>heuréka!
+4553'>heves vérmérséklet
+1230'>hiábavaló áldozat
+1679'>hibernáció
+256'>híd
+3220'>hideg fürdő
+2097'>hideg tűz
+1583'>hidegvér
+1963'>hidra
+4473'>hiei
+4472'>hiei ellentámadása
+481'>higany hugó
+2778'>hihető illúzió
+1579'>hínárevő piranha
+5451'>hipnotizőr
+1537'>hirtelen halál
+4057'>hitehagyott
+2532'>hiú ábránd
+3636'>hívó kürt
+2314'>hobgoblin
+1205'>hódolat raiának
+2423'>hoellauwaupula
+696'>hófehérke
+3698'>hófehérke (új)
+5678'>hógriff
+1286'>hóhérbimbó
+3412'>hólavina
+4643'>holdlátó vérkutya
+3248'>holdsugár
+22'>holtak energiája
+3187'>holtak serege
+6067'>holtidéző kürt
+5642'>homályhozó
+5673'>homályúr
+3054'>homogén artikula
+785'>homokféreg
+1415'>homokóra
+5903'>homoksárkány
+1454'>homokvarány
+5630'>hópárduc
+1885'>hordaparancsnok
+4229'>hordaparancsnok (új)
+5639'>hordauduk
+5250'>hordavár
+2741'>hordázás
+990'>hordóagyú mameluk
+5876'>horg'naug vérforraló
+5017'>horizontkémlelő
+1851'>hős
+3743'>hős (új)
+1374'>hősi halál
+1192'>hősies küzdelem
+624'>hősiesség
+1494'>hőskorszak
+5762'>hosszú álom
+279'>hosszú íj
+3131'>hőstett
+1840'>hősök ideje
+3360'>hótarantula
+979'>hóvihar
+4361'>hozsi
+3031'>hrumaguk
+519'>hűbérszövetség
+385'>huddens mester
+2683'>huhogás
+3121'>hullaféreg
+408'>hullámelementál
+5501'>hullámsárkány
+3461'>hullarablás
+1763'>hullazabáló
+4179'>hullazabáló (új)
+4591'>huraggin
+5530'>huraggin taktikája
+4349'>huraggin tüze
+699'>hurleon
+5677'>hurok
+2122'>hűség
+3057'>hűségeskü
+73'>húsevő magszim
+5596'>húsrágó madgorrath
+412'>hűtlen szolga
+5133'>hyass, a degenerált
+2754'>hydron
+4364'>höre
+2453'>ichinedar
+5316'>ichinedar (új)
+4682'>idegen létsík
+910'>idegen tollak
+4639'>idegméreg
+622'>idegroncsolás
+3444'>idegösszeomlás
+2050'>idézés
+4977'>idéző morf
+3883'>idéző teknős
+2739'>idézőrúna
+4086'>időcsapás
+838'>időcsere
+3804'>időcsere (új)
+819'>időgyorsító
+6163'>időgyorsító (új)
+1585'>időhurok
+2221'>időkapu
+1039'>időkiesés
+6286'>idomított trikornis
+4641'>időóriás
+2456'>időrabló
+5411'>időszaggatás
+466'>időtorzulás
+641'>időugrás
+3756'>időugrás (új)
+1030'>időutazás
+2502'>időzített gomba
+524'>ifjabb lord kovács
+5180'>ifjú aranysárkány
+6058'>ifjú sárkánykígyó
+3841'>ifjú teknős
+4603'>igaz barát
+1385'>igazságtevő
+4287'>igazságtevő (új)
+1368'>igor
+5094'>igy döntöttem
+6085'>íjászat
+1912'>ijászmester
+878'>ikerfivérek
+1323'>ikerharcos
+1740'>ikrák
+5152'>ilgarathi védőháló
+1103'>illúzió
+2748'>illúzió fétis
+2632'>illúziócsáp
+3188'>illúziócsapda
+6224'>illúziócsapda (új)
+4487'>illúzióharcosok
+4008'>illúzióláng
+4932'>illúzióméreg
+3372'>illúziómester
+276'>illúziópalota
+3240'>illúzióromboló
+3370'>illúziórúna
+369'>illúziósárkány
+4253'>illúziósárkány (új)
+2949'>iltian
+1304'>imádkozás
+2947'>immortalitis
+3050'>immúnis krakoch
+4095'>impulzus
+1068'>influenza
+3787'>influenza (új)
+3137'>ingatag hegyorom
+5500'>inkvizíciós tisztogatás
+3172'>inséges idők
+1076'>instabil szingularitás
+196'>intelligencia
+2064'>intelligenciapróba
+231'>invázió
+1225'>inváziós éjszaka
+1476'>inváziós emlékérem
+2051'>inysorvadás
+2538'>irányíthatatlanság
+3032'>irányított manakisülés
+6065'>irányított őrület
+5805'>irtóztató fatty
+3966'>irtóztató nekromanta
+5553'>ishakar, az óceán ura
+1172'>ispotály
+677'>istálló
+6241'>istarian
+5603'>isteni átok
+2488'>isteni érzés
+2220'>isteni harag
+6245'>isteni harag (új)
+3326'>isteni igazságtétel
+6272'>isteni igazságtétel (új)
+3814'>isteni infúzió
+1137'>isteni kapcsolat
+5074'>isteni kegy
+1120'>isteni közbeavatkozás
+3046'>isteni parancs
+250'>isteni segítség
+2717'>isteni szeszély
+1482'>isteni színjáték
+5734'>isteni szózat
+1621'>isteni szövetség
+786'>isteni visszahívás
+3957'>isthar, a káoszpápa
+6087'>isthar, a káoszpápa (új)
+2517'>iszapgólem
+5740'>iszapmester
+1876'>iszonyat
+2571'>iszonyatos csáp
+2459'>iszonyatos goblin
+6258'>iszonyatos goblin (új)
+4664'>iszonykeltő
+409'>iszp elementál
+479'>itélet
+3619'>itélethozó
+1062'>ithril
+3471'>izmos csáp
+5825'>izmos fatty
+3463'>izmos féreg
+3460'>izmos manó
+6222'>izmos manó (új)
+3473'>izmos pegazus
+3470'>izmos sámán
+3493'>izmos sárkány
+3445'>izmos szkritter
+3435'>izmosítás
+2501'>izomagy
+4969'>izombi
+4546'>izompacsirta
+920'>izompuffasztás
+4988'>izzó energiagömb
+5658'>izzó fókusz
+3594'>izzó lemezpáncél
+5168'>jáde fókuszkristály
+3344'>jáde szkarabeusz
+1582'>jádesárkány
+4282'>jádesárkány (új)
+1083'>jaj a legyőzötteknek
+314'>járvány
+5127'>jeanston, a hatodik
+4265'>jég bogyola
+5181'>jégbarlang
+439'>jégcsapás
+1'>jégcsóva
+6069'>jégdárda
+4996'>jégdiszkosz
+380'>jégelementál
+3659'>jégelementál (új)
+4981'>jeges nyílzápor
+5447'>jeges sóhaj
+2135'>jeges szellő
+3972'>jégfal
+4413'>jégféreg
+5475'>jégmadár
+5025'>jégmágia
+5038'>jégmágus
+2033'>jégmedúza-fej
+3901'>jégoszlop
+3358'>jégsárkány
+5808'>jégszilánk
+1506'>jégszív
+1142'>jégtroll
+1311'>jellempróba
+332'>jellemtükör
+1427'>jerikó
+3795'>jerikó (új)
+1987'>johhtukul
+1651'>jóságos manó
+4180'>jóságos manó (új)
+607'>joviális mikroszockó
+2912'>jutalmazás
+482'>jutalom
+2059'>jövőlátó
+2440'>ka-boom
+5322'>ka-boom (új)
+4588'>kacagó nimfa
+587'>kacagó szépia
+3673'>kacagó szépia (új)
+141'>kaffogó hebrencs
+6312'>kagg, a mocsár ura
+451'>kaktusztüske
+3958'>kalamajka
+2880'>kalandos álmok
+1345'>kalandozók városa
+4191'>kalandozók városa (új)
+5229'>kalimász
+4070'>kamarcs
+2604'>kamazunga lopotomos
+2325'>kamdemu
+1441'>kaméleon
+841'>kamionoszaurusz
+5364'>kamionoszaurusz (új)
+2123'>kancsalság
+1551'>kandeláber
+758'>káosz szimbólum
+5733'>káoszangyal
+1222'>káoszbajnok
+1881'>káoszcsapás
+4528'>káoszdémon
+1364'>káoszfelügyelő
+2633'>káoszgoblin
+5858'>káoszgyilkos
+1391'>káoszhorda
+3247'>káoszkapu
+6133'>káoszkapu (új)
+4315'>káoszkatlan
+3077'>káoszkatona
+1962'>káoszkígyó
+2144'>káoszmágus
+896'>káoszmester
+2399'>káoszpiramis
+1117'>káoszplazma
+3154'>káoszsugár
+3097'>káoszszellem
+6092'>káoszszellem (új)
+1421'>káoszteknőc
+1849'>káosztornádó
+3934'>káoszurna
+823'>kaotikus csata
+3356'>kaotikus tombolás
+984'>kapcsolat a földdel
+1680'>kaporszakáll
+3720'>kaporszakáll (új)
+1858'>kaptár
+5087'>kaptárparancsnok
+297'>kapu
+3724'>kapu (új)
+5613'>kapunyitó
+1733'>kapzsi manó
+4211'>kapzsi manó (új)
+2837'>kapzsiság
+2760'>karacs
+4326'>karácsony
+4054'>karám
+3218'>kardcsáp
+265'>kardfogú fülemüle
+3709'>kardfogú fülemüle (új)
+1111'>kardszárnyú pocok
+3722'>kardszárnyú pocok (új)
+3630'>karemium csapda
+1390'>kárhozat
+5221'>karimon átkozott könyve
+5121'>karimon döntése
+5159'>karimon sírja
+783'>karmazsin huhogó
+3802'>karmazsin huhogó (új)
+3322'>karmazsin tigris
+1538'>karmos tankány
+105'>karócsapda
+2689'>kárpótlás
+5235'>kártékony élősködő
+5460'>kasug-din nagyúr
+150'>kaszabolósáska
+1182'>kaszárnya
+1524'>kaszinó
+1405'>kasztroplanáris stigma
+1619'>kasztroplanáris uralom
+1099'>kataklizma
+3749'>kataklizma (új)
+5833'>katakombák
+449'>katalina lombikja
+5828'>katalizátor
+1105'>katapult
+2853'>katasztrófa
+2227'>katona klánvezér
+2365'>katonai gyakorlópálya
+903'>katonai tanácsadó
+2441'>kátránygödör
+59'>kavadu
+695'>kavaduiszák
+2398'>kazimir
+966'>kazmárgyökér
+2619'>kedvenc
+5600'>kedvenc trükköm
+3446'>kegyelemdöfés
+3631'>kegyetlen gyökérszellem
+5565'>kegyetlen krabber
+4148'>kegyetlen nap
+2584'>kegyvesztés
+3368'>kék rakolits
+2675'>kék testvér
+2716'>kék-vörös atya
+2733'>kék-vörös idol
+5465'>kelegish
+3455'>keléses ragálymester
+5897'>keleti sárkány
+5182'>kellemes álom
+2109'>keltetőfészek
+5848'>kémgömb
+443'>kémhálózat
+3233'>kémmadarak
+4466'>kémsárkány
+2057'>kenbug
+3964'>kensoi
+1736'>kentaurusz
+3469'>kényszerképzet
+4633'>képmás
+1059'>képzeletharcos
+2738'>kerecsensólyom
+4260'>keresetlen szavak
+3198'>kereskedelem
+3541'>kerge darázs
+2025'>kérges bőr
+3280'>kérődző moagrin
+5399'>kérődző moagrin (új)
+300'>két kard szimbólum
+5144'>két lovas eljövetele
+1776'>kétágú villám
+3699'>kétágú villám (új)
+1764'>kétélű fegyver
+4113'>kétfejű kőtroll
+834'>kétfejű troll
+1522'>ketrec
+4365'>kétségbeesett lépés
+4447'>kétszer kettő
+3108'>kettéroppantó
+5251'>kettő megy be
+1019'>kettős erőbedobás
+3149'>kettős ügynök
+805'>kettőslátás
+3375'>keyrasi démonlidérc
+4572'>kézrátétel
+2464'>khalea wa humped
+4053'>khebron
+3827'>khirr, a barbár
+1681'>kholdenikus csapás
+1894'>khór
+4284'>khór (új)
+1369'>khór földje
+4213'>khór földje (új)
+1265'>khór zsoldosai
+6135'>khór zsoldosai (új)
+4449'>khrak behemót
+2623'>kicsi a rakás
+1909'>kicsinyítő lencse
+1682'>kiégett föld
+5804'>kiégett őskő
+1730'>kiegyenlítés
+3243'>kiegyensúlyozás
+2603'>kiélezett küzdelem
+5209'>kifejlett aranysárkány
+6057'>kifejlett sárkánykígyó
+4078'>kifejlett xenomorf
+5098'>kifordított varázsdoboz
+3492'>kígyóméreg
+2707'>kígyópók
+6071'>kigyúrt toma
+2690'>kiképzőtiszt
+4493'>kilenctagú maszkos banda
+2075'>kilthor
+1149'>kincseskamra
+1782'>kincskeresés
+1727'>kincskereső
+3549'>kincskereső madár
+2369'>kineport
+5821'>kinetikus detonáció
+4637'>kinetikus morf
+5264'>kínzó éhség
+1545'>kínzókamra
+3728'>kínzókamra (új)
+3499'>kipukkadás
+2080'>király szilmill
+1448'>királygyík
+468'>királyi adó
+6297'>királyi adó (új)
+975'>királyi arcképcsarnok
+1722'>királyi fegyvernök
+848'>királyi főszakács
+6299'>királyi főszakács (új)
+1363'>királyi halastó
+1429'>királyi korona
+1544'>királyi légiós
+1011'>királyi nagytanács
+4655'>királyi őrgárdista
+3070'>királyi orgyilkos
+5318'>királyi orgyilkos (új)
+3601'>királyi palást
+417'>királyi tanácsnok
+1242'>királyi testőr
+958'>királyi vadaspark
+3895'>kirurgus
+2898'>kis tohonya
+1082'>kis vagabund
+159'>kis vaspajzs
+4985'>kisebb áldozat
+5641'>kisebb angyal
+2288'>kisebb gyógyító szentély
+5736'>kisebb jégdémon
+5889'>kisebb káoszsújtás
+4411'>kisebb kincsfutár
+180'>kisebb kívánság
+1412'>kisebb quwarg istenség
+1035'>kisebb zan
+4425'>kísértés
+1326'>kísérteties bajnok
+3118'>kísértetkastély
+1521'>kísértetkölyök
+3088'>kísértetvándor
+4407'>kismassza
+3082'>kiszáradás
+1177'>kitartó ló
+362'>kiűzetés
+961'>kiváltság
+708'>kíváncsiság
+5458'>kivárás
+5904'>kivégzés
+5506'>kiüresedés
+3540'>kiütéses negátor
+2230'>kleptománia
+710'>kloin drungas
+331'>klónozás
+3786'>klónozás (új)
+537'>klónteknőc
+609'>kneopatikus molluszk
+1683'>kőagy
+2557'>kobaltpatkány
+1444'>kobra
+45'>kobudera
+3425'>kocsonyakígyó
+54'>kőevő
+136'>kőfejű beldor
+5537'>kókadt motyogó
+2089'>kőkorszak
+305'>kőkorszaki szaki
+5203'>kolapsz kapitány
+303'>kolostor
+5284'>kompenzátor
+4434'>komponenspuffancs
+4578'>koncentrált bűzsugár
+2687'>koncentrált energia
+5008'>koncentrált fattycsapás
+1969'>koncentrált támadás
+5738'>konkatenáció
+2047'>kontaktus őseiddel
+1367'>kontármunka
+3708'>kontármunka (új)
+6009'>kontinuum szűkítés
+241'>kontinuum-tágító
+6293'>kontinuumfabrikátor
+2196'>kőomlás
+484'>kőóriás
+2012'>kopasztás
+719'>kopernik
+5032'>koplaló motyogó
+762'>koponya szimbólum
+3129'>koporsó
+5568'>korallgólem
+2923'>koreni sün
+816'>korgó szikra
+6311'>korgó szikra (új)
+5640'>korhadás
+1118'>korlátlan mágikus faktor
+1046'>korlátozás
+2987'>korrech, az átkozott
+3163'>korrer varror
+5385'>korrer varror (új)
+3069'>korrodáció
+515'>korrupció
+4417'>korrupt árnykufár
+4612'>kóspalaki sajtolvasó
+5477'>kóspalaki vízszámláló
+2902'>kosszarvak
+1250'>kőszáli disznó
+2133'>kőszem
+2006'>kőszemű szilmill
+2845'>kőszúnyog
+4509'>kőtestbe zárt fénylény
+513'>kőtipró
+2104'>kőtroll
+1148'>kovácscéh
+788'>kovácsműhely
+3830'>kővarangy
+698'>kővé változtató pálca
+165'>kővéváltoztatás
+2417'>kővéváltoztató csáp
+3281'>kozmikus csodabogár
+2905'>kozmikus energia
+4475'>kozmikus örvény
+3839'>kőzúzó
+428'>kputtyintó csalán
+3287'>kr'uagon pusztító
+5531'>krabber csontozat
+5562'>krabber filézőművész
+5534'>krabber genetikus
+5492'>krabber hálócipelő
+5495'>krabber harci dal
+5564'>krabber lidérc
+5652'>krabber nyisszantás
+5525'>krabber orgyilkos
+5482'>krabber rohamosztagos
+5508'>krabber támadás
+5514'>krabber teknősvadász
+3592'>kragoru familiárisa
+5523'>kragoru medúzája
+3487'>kragoru sárkánya
+5503'>kráken poronty
+3116'>krakoch csizma
+764'>krákogó sütőtök
+2268'>krakolich
+4965'>krám
+3111'>krathan csontvázak teremtése
+5826'>kratüsz
+5722'>krausos nagyúr
+20'>kreáció
+2131'>kreatin
+5787'>kreatív affinitás
+6082'>kreatív újjászületés
+5689'>kreátor
+5527'>kreatúra kreálása
+3093'>kreiton átokmester
+3357'>krétakör
+777'>kri wu she
+5837'>krigis, a lélekkufár
+461'>kripta
+5790'>kristály végzetúr
+3369'>kristályerdő
+1802'>kristályfolyadék
+676'>kristálygömb
+2522'>kristályhegy
+5453'>kristálymágus
+3362'>kristálynyálka
+3134'>kristálypalota
+3863'>kristálypók
+1597'>kristálypraglonc
+883'>kristálytündér
+5915'>kritanoid mágus
+2624'>kritikus tömeg
+5359'>kritikus tömeg (új)
+2883'>krónikaőr
+2166'>krono-csáp
+1828'>kronobogár
+5325'>kronobogár (új)
+1883'>kronoelementál
+1887'>kronokukac
+3383'>kronomágikus homokóra
+2663'>kronopók
+5290'>kronopók (új)
+5128'>kronoszaurusz
+1773'>kronoszóma
+1866'>kronotapír
+3886'>kronoteus
+1895'>kru-bla
+6100'>kru-bla (új)
+2095'>krugrog mama terítője
+5880'>kultikus motiváció
+880'>kumulatív szimmetria
+6306'>kumulatív szimmetria (új)
+5902'>kurtz
+917'>kuruzslás
+2911'>kúszó végzet
+4569'>kutató ferd
+2408'>kutatólaboratórium
+5429'>kutatóosztag-parancsnok
+259'>kvazár kard
+813'>kvazár páncél
+1609'>kvazárbehemót
+4276'>kvazárbehemót (új)
+2252'>kvazárgólem
+1387'>kvazársárkány
+4268'>kvazársárkány (új)
+943'>kvazársziklák népe
+3951'>kvazársörényű pegazus
+2054'>küldemény
+2413'>különcség
+3371'>különleges élvezet
+3387'>különleges képzés
+517'>különös mérgek
+3979'>kyorg agyfagyasztó
+3084'>kyorg blöff
+3058'>kyorg dzsinn
+3109'>kyorg központ
+3439'>kyorg managömb
+3136'>kyorg ősmágus
+3899'>kyorg szolgasárkány
+3613'>kyorg tudás
+566'>kyra
+440'>kürt
+361'>kürtszó
+3680'>kürtszó (új)
+2500'>köd
+675'>ködcsillag
+3948'>ködfátyol
+748'>ködkapu
+2800'>ködlovas
+667'>ködmangó
+4098'>ködsárkány
+3821'>kölyökteknős
+3263'>könyvtár
+1766'>köpködő bruhatag
+2561'>köpőcső
+1759'>köpönyegforgató
+5746'>következő fokozat
+726'>kövgeo
+5559'>közepes kívánság
+4652'>központi óriásboly
+2706'>közös mancs
+2948'>közös sír
+347'>közös tudat
+3790'>közös tudat (új)
+2308'>lábadozás
+6302'>lábadozás (új)
+5040'>labirintus
+4648'>lady lucitania
+1684'>lady olivia
+3770'>lady olivia (új)
+3422'>lady olivia éneke
+1425'>lady olivia macskája
+3794'>lady olivia macskája (új)
+4962'>lady olívia tanácsa
+1144'>lady olivia tornya
+930'>lady olivia trükkje
+2807'>lady terilien
+5418'>lady terilien (új)
+396'>lajhár lord
+2630'>láncvillám
+5321'>láncvillám (új)
+3977'>lángelementál
+1471'>lángoló vér
+2617'>lángtenger
+1108'>lant
+3307'>lápi rém
+2544'>láplidérc
+1788'>lárva
+4172'>lárva (új)
+2370'>lárvaszint
+3092'>lasael
+3615'>lassan járj!
+1642'>lassítás
+5720'>lassú ganüid
+6278'>lassú krabber
+1096'>láthatatlan sereg
+3667'>láthatatlan sereg (új)
+142'>láthatatlanság
+25'>láthatatlanság látása
+275'>látomás
+5208'>lávabehemót
+3333'>lávacsepp
+3845'>lávacsiga
+955'>lávafolyam
+4600'>lávagólem
+2234'>lávaköpet
+3185'>lávaóriás
+4625'>lávasárkány
+127'>lavinia lobara
+294'>lázadás
+2026'>lázadó
+29'>leah átka
+721'>leah bosszúja
+5761'>leah bűbája
+146'>leah csontmarka
+3746'>leah csontmarka (új)
+2653'>leah főpapja
+6155'>leah főpapja (új)
+549'>leah halállovagja
+4301'>leah halállovagja (új)
+1070'>leah hatalma
+1031'>leah kegye
+209'>leah küldetése
+2966'>leah követője
+625'>leah megcsúfolása
+80'>leah oltára
+6103'>leah oltára (új)
+582'>leah szolgája
+220'>leah temploma
+6234'>leah temploma (új)
+2055'>leanthil
+3177'>leanthil trükkje
+352'>lebegő gomba
+2007'>lebegő iszonyat
+2301'>lebegő kastély
+434'>lefegyverzés
+3420'>lefizetés
+4551'>legbelső félelem
+3122'>legbelsőbb árulás
+685'>légelementál
+3737'>légelementál (új)
+2300'>légelementál idézése
+5371'>légelementál idézése (új)
+4406'>legendák völgye
+2387'>legendás buntokapi
+3245'>legendás pegazus
+3913'>legendás sárkány
+4979'>legfelsőbb pap
+2292'>léghajó
+2294'>légiharc
+1187'>légirozmár
+3690'>légirozmár (új)
+1490'>legkisebb kívánság
+3262'>legondar
+6054'>légszomj
+3915'>légy méltó magadhoz
+2068'>leheletmágia
+5256'>lehetetlen küldetés
+1526'>lehetőség
+5170'>leinahtan
+5236'>leinahtan védőpajzsa
+2205'>lélekcsapda
+5409'>lélekcsapda (új)
+2254'>lélekelementál
+2815'>lélekenergia kinyerése
+6120'>lélekenergia kinyerése (új)
+3999'>lélekenergia lopás
+3339'>lélekfacsarás
+6139'>lélekfacsarás (új)
+3359'>lélekgyűjtő
+4105'>lélekgyűjtő pálca
+4101'>lélekháló
+1867'>lélekharang
+6047'>lélekkufár
+5263'>lélekmorzsoló
+2975'>lélekorzó
+3853'>lélekőrző
+6125'>lélekorzó (új)
+5815'>lélekparázs
+2319'>lélekrabló
+5901'>léleksajtolás
+5075'>léleksárkány
+2247'>lélekszellem
+4109'>lélekszivacs
+626'>lélekszívás
+2164'>lélekszívó csáp
+6068'>lélekszolga
+2816'>lélektáncos
+3857'>lélektépő
+1179'>lélektisztítás
+4120'>lélekvándorlás
+2043'>lélekzúzó mancs
+2766'>lelkek börtöne
+5270'>lelkész
+4421'>lelketlen parancsnok
+528'>lelki kötődés
+760'>lemondás a hatalomról
+4605'>lépéselőny
+5698'>leprás goblin
+4076'>leskelődő
+4465'>lestinoh, a teknős legenda
+5191'>leszáll a köd
+4308'>létsíkok
+2201'>levatan
+2582'>levi
+5351'>levi (új)
+4387'>lhoal'zetan
+1980'>liathan
+1559'>lidérc
+4153'>lidérc (új)
+4540'>lidércfény
+6044'>lidércgömbök
+3432'>lidércharcos
+1888'>lidérckirály
+2428'>lidércláng
+3563'>lidércszellem
+1542'>lidércúr
+2755'>lidércvipera
+6144'>lidércvipera (új)
+731'>likantrópia
+49'>lila brekk
+5524'>lila tulipán
+1599'>linkor csumovszkij
+2154'>lipkin
+2570'>liumbe
+5847'>ljerpin
+2857'>loachlan
+1789'>lőfegyver szakértelem
+5866'>lohd haven familiálisa
+2238'>lohd haven hikoltása
+5407'>lohd haven hikoltása (új)
+2257'>lohd haven sáhkánya
+5414'>lohd haven sáhkánya (új)
+781'>loidin haptitus
+108'>lopás szakértelem
+1704'>loprak
+2934'>lord dohrewiman
+1872'>lord fezmin
+3760'>lord fezmin (új)
+2322'>lord goffry
+1009'>lord korell
+3702'>lord korell (új)
+1685'>lord kovács
+3769'>lord kovács (új)
+2381'>lordok háza
+1657'>lőtávolság
+2085'>lovasroham
+1282'>lóvért
+4554'>lukratív praglonc
+493'>lusta gurbag
+3408'>luthium
+572'>lymona
+4530'>lyx-daik-i boszorkány
+3179'>lyx-daik-i boszorkánykódex
+3318'>lyx-daik-i teória
+3299'>ma'yia dala
+5602'>maahradam
+5811'>macskapárduc
+1247'>madárijesztő
+5838'>maedhros kedvence
+4108'>maedin
+4145'>maedin átka
+4531'>maedin pálcája
+3124'>maerju
+5557'>magador creig
+6012'>magányos harcos
+4653'>magányos küklopsz
+3490'>magánzárka
+2354'>magas morál
+2506'>magger
+3923'>magh-goth párduc
+295'>mágia-apály
+3719'>mágiaapály (új)
+1686'>mágiadagály
+980'>mágiafaló
+2110'>mágiafaló
+2062'>mágiafaló csáp
+3823'>mágiagyilkos
+336'>mágiaimmunitás
+5024'>mágiamorfáló
+2072'>mágiapróba
+31'>mágiatörés
+3669'>mágiatörés (új)
+1397'>mágiavihar
+661'>mágikus abroncs
+994'>mágikus adottság
+3106'>mágikus apród
+727'>mágikus beültetés
+2013'>mágikus bőr
+11'>mágikus ének
+1687'>mágikus erőd
+2608'>mágikus fegyverzet
+187'>mágikus gyorsítás
+4684'>mágikus hármas
+3459'>mágikus izmosító
+2010'>mágikus karom
+2954'>mágikus kibontakozás
+747'>mágikus kisülés
+217'>mágikus koponya
+4140'>mágikus óra
+2605'>mágikus páncélzat
+1007'>mágikus pulzáns
+1845'>mágikus regenerálódás
+5201'>mágikus seprű
+3454'>mágikus súlyzó
+19'>mágikus támadás
+102'>mágikus tolvaj
+4513'>mágikus tudatzár
+3838'>mágikus túltöltődés
+280'>mágikus tükör
+887'>mágikus újjászületés
+130'>mágikus védelem
+5846'>magirox
+4379'>magiszter
+873'>magmaelementál
+5026'>magmaköpő
+5795'>magmarobbanás
+1091'>magnetikus praglonc
+2455'>magnetó
+6231'>magnetó (új)
+5913'>magszim gigász
+2341'>mágus klántag
+2228'>mágus klánvezér
+937'>mágusiskola, 1. szint
+962'>mágusiskola, 2. szint
+1017'>mágusiskola, 3. szint
+5131'>máguskobold
+5277'>mágusok csatája
+2336'>mágustanonc
+5725'>mágusölő
+1667'>magzat
+1891'>mahomi gólem
+692'>maigner lopotomos
+3696'>maigner lopotomos (új)
+2249'>majd legközelebb
+1235'>mákrózsa
+540'>mákrózsa főzet
+3917'>malfunkcionálás
+3607'>malkori íjászmester
+243'>malvina lobara
+3279'>mamutóriás
+5398'>mamutóriás (új)
+3385'>manaadó csáp
+3171'>manaapadás
+2309'>manaáramlás
+2715'>manabolydulás
+3158'>manabörtön
+1193'>manacsapda
+6267'>manacsapda (új)
+1154'>manaégés
+3752'>manaégés (új)
+946'>manaelementál
+4952'>manaevő féreg
+3825'>manafaló vyarg
+3856'>manafamiliáris
+996'>manaféreg
+2476'>manafókuszálás
+3575'>manafonál
+1054'>manaforrás
+1760'>managenerátor
+5839'>manakonstrukció
+5579'>manakorall
+4559'>manakorong
+4539'>manakulacs
+5755'>manapajzs
+2759'>manapoid
+4391'>manapoid főfelügyelő
+3071'>manapók
+3638'>manapuffancs
+2952'>manapulzálás
+5800'>manaregeneráció
+780'>manarobbanás
+2993'>manasajtolás
+5581'>manaspirál
+3164'>manaszaporodás
+5443'>manaszipoly
+2167'>manaszívás
+3476'>manaszívó kullancs
+2863'>manaszonda
+6215'>manaszonda (új)
+3824'>manaszüretelés
+4963'>manaszövő
+3010'>manatűz
+534'>manavákuum
+4269'>manavákuum (új)
+5592'>manaválság
+771'>mandhal di mehr
+3107'>mandulaesszencia
+1914'>mandulanektár
+4254'>mandulanektár (új)
+4359'>mangorn manafaló
+123'>mánia
+3871'>manibus
+2956'>manifesztálódott energia
+5252'>manifesztált praglonc
+264'>manifesztátor
+5207'>manifez, a negyedik
+5010'>manipuláló csáp
+1285'>manna
+5908'>manóhercegnő
+2419'>manóisten közbeszól
+1813'>manók földje
+4195'>manók földje (új)
+1771'>manók tánca
+6190'>manók tánca (új)
+1846'>manókirálynő
+4247'>manókirálynő (új)
+1669'>mantikór
+544'>mantrion
+4495'>mardakor bölcs
+5607'>mardakor misztikus
+6035'>marek-hun szabotőr
+831'>martian
+5441'>martian memoárja
+1313'>martian varázslata
+3125'>márvány apostol
+2484'>márvány drakón
+2212'>márvány lady
+282'>márványtorony
+3924'>második esély
+1404'>massza
+4277'>massza (új)
+4975'>masszaszövő
+2959'>maten
+3937'>mateus
+3849'>mathar
+2188'>matiel
+4667'>matilda
+4013'>matoyishi
+3868'>mechanikus végtag
+1063'>meddőség
+4389'>médeni berta
+1848'>meditáció
+5919'>medúzaféreg
+5926'>megaszaurusz maximusz
+2105'>megbékélés
+3078'>megelőző csapás
+4568'>megelőző ütés
+4555'>megfelelő alkalom
+5022'>megkergült őshangya
+4208'>megkövesedett sün
+6027'>megkövesedett törpesün
+1021'>megrontás
+741'>megsemmisítő
+3961'>megsemmisítő csapás
+3927'>megsemmisítő lehelet
+2438'>megszakítás
+5393'>megszakítás (új)
+3080'>megszelidítés
+3580'>megtért vámpír
+530'>megtestesülés
+4514'>megtestesült félelem
+689'>megtévesztés
+3464'>megtisztult bőr
+516'>megtisztult leány
+1737'>megújulás
+5223'>megújulás(2)
+1829'>megvadult kecskebak
+4634'>megvadult természet
+1092'>megvesztegetés
+4937'>mélabú
+2592'>melák, az óriás
+4499'>melan, a méregtagadó
+2493'>melkon
+6266'>melkon (új)
+3155'>melkon titka
+1393'>méltó szintlépés
+2262'>mély gyász
+6276'>mélyberántó krabber
+1065'>mélység fattya
+4214'>mélység fattya (új)
+4043'>mélységi behemót
+1994'>mélységi ent
+3167'>mélységi glathorg
+132'>mélységi grittang
+5499'>mélységi praglonc
+1948'>mélységi zombi
+5315'>mélységi zombi (új)
+1954'>mélytengeri kalauz
+5545'>mélytengeri szimbionta
+5567'>mélytengeri teknős
+4936'>menedék
+4188'>méniach, a zöld
+1971'>mennybéli ítélőszék
+175'>mennydörgő kénsav
+3232'>mennydörgő titán
+5614'>mennyei áldás
+1732'>mentális csapás
+4443'>mentális enyészet
+5083'>mentális felderítő
+3581'>mentális hullám
+5709'>mentális kalapács
+386'>mentális robbanás
+3766'>mentális robbanás (új)
+2396'>mentális vámpír
+2742'>mentát
+210'>mentesség
+3715'>mentesség (új)
+792'>mentőangyal
+3504'>méonech főmágus
+3453'>méonech fürkész
+6066'>méonech megfigyelő
+4577'>méonech megsemmisítő
+3535'>méonech ősmester
+3536'>méonech száműzött
+6147'>méonech száműzött (új)
+4601'>mer-gah
+921'>méreg átadása
+151'>méreg-erősítés
+2253'>méregelementál
+2219'>méregfélelem
+1178'>méregfelhő
+3657'>méregfelhő (új)
+415'>méregféreg
+5645'>méregförgeteg
+6086'>méregharcos
+987'>méreghasználat
+1915'>méreghólyag
+5835'>méreghullám
+313'>méregimmunitás
+673'>méregkeverés
+3363'>méregkutatás
+3482'>méreglabor
+5921'>méregsárkány
+179'>méregsemlegesítés
+1738'>méregzsák
+1477'>merénylet
+356'>mérges csípés
+3687'>mérges csípés (új)
+1664'>mérges galóca
+1465'>mérges nyukmár
+69'>mérges pók
+5081'>mérges puffancs
+2086'>mérges szilmill
+1654'>mérgezés
+1210'>mérgezett dobótőr
+6175'>mérgezett dobótőr (új)
+3388'>mérgezett karmok
+366'>mérgezett vizek
+3494'>mérgező rakshallion
+3029'>mérgező szél
+1354'>mérgező zóna
+5216'>mérhuana
+5177'>mérhuana bőre
+5171'>mérhuana csápja
+261'>mérleg
+4558'>mesteredző
+2665'>mestermágus
+399'>mestertolvaj
+3675'>mestertolvaj (új)
+1869'>mestervarázsló
+5842'>meszy
+2763'>metakáosz
+4380'>metamorfózis
+3350'>meteorhullás
+1979'>mikropoid
+204'>miksziszi húsgólem
+4066'>milgandmester
+5039'>mindenevő őshangya
+4262'>mindenható plazmagömbök
+3347'>mindent nekem!
+1491'>mingókörte
+3028'>minőségi csere
+6096'>minőségi csere (új)
+4259'>mínoszi talizmán
+1184'>mínoszkúp
+4573'>minotaurusz berzerker
+4668'>minotaurusz csatasámán
+5157'>minotaurusz erénycsősz
+5048'>minotaurusz eunuch
+5002'>minotaurusz féregtaposó
+4395'>minotaurusz herceg
+5227'>minotaurusz morzsoló
+6016'>minotaurusz specialista
+5049'>minotaurusz vezér
+1257'>mirg
+3691'>mirg (új)
+947'>mirtuszkoszorú
+2696'>misszionárius
+5198'>misztikus erők
+2824'>misztikus kisülés
+2241'>misztikus sötétségkő
+5292'>misztikus sötétségkő (új)
+3865'>mithinor
+5243'>mithril gólem
+3286'>ml'othag szürcsölő
+1327'>mnebolath
+4103'>mo'khabut fétis
+3146'>mo-csáp mocsár
+4995'>moa agymosó
+3244'>moa berserker
+5654'>moa csillagbárka
+3297'>moa daraboló
+1014'>moa ékszer
+3740'>moa ékszer (új)
+3632'>moa elmezár
+5719'>moa fegyvergyár
+6032'>moa fényvető
+5772'>moa fürkész
+5774'>moa gömb
+3252'>moa hatalmasság
+3236'>moa lord
+3296'>moa nagyúr
+5578'>moa őshal
+3992'>moa stuki
+5461'>moa szerkezet
+5487'>moa torpedó
+5582'>moa torpedóvető
+5222'>moa tortúra
+2955'>mocsári ácsorgó
+2727'>mocsári féreg
+4060'>mocsárláz
+5739'>móg, a behemót
+2052'>mohóság
+2563'>mókamester
+3523'>mokku
+597'>molad szellem
+3681'>molad szellem (új)
+338'>molekula átrendezés
+3343'>molekulabitorló
+6214'>molekulabitorló (új)
+1463'>móleon
+1055'>molgan
+2699'>molitár dob
+5313'>molitár dob (új)
+5743'>molluszk, az ócskás
+5488'>molyrágó mulya
+2233'>molzol nártán
+3589'>momfordi csapás
+3943'>mondjam, vagy mutassam?
+5657'>monneor
+2170'>monozoid
+5366'>monozoid (új)
+1411'>monukonstrumatik abarrun
+5775'>mópat boly
+1893'>morbid
+2266'>mordar védőköre
+2376'>mordar, a nekromanta
+5625'>morf mágia
+1981'>morfinder telep
+779'>morgan
+6238'>morgan (új)
+2644'>morgan átka
+6143'>morgan átka (új)
+1857'>morgan átkozott ajándéka
+5380'>morgan átkozott ajándéka (új)
+2258'>morgan aurája
+3882'>morgan barlangja
+1352'>morgan familiárisa
+3936'>morgan gyásza
+1949'>morgan gyermeke
+5233'>morgan irtóztató ereje
+1871'>morgan ítélete
+390'>morgan kereke
+1277'>morgan kisujja
+5326'>morgan kisujja (új)
+1093'>morgan kristálya
+3738'>morgan kristálya (új)
+521'>morgan könyve
+5420'>morgan könyve (új)
+3156'>morgan laboratóriuma
+3450'>morgan mágiája
+1384'>morgan mocsara
+948'>morgan pálcája
+4212'>morgan pálcája (új)
+3073'>morgan parancsa
+5817'>morgan pecsétje
+5077'>morgan rúnája
+480'>morgan sipkája
+3981'>morgan sóhaja
+413'>morgan szelleme
+5763'>morgan szilánkja
+2511'>morgan születése
+2599'>morgan tanítványa
+1523'>morgan titka
+4636'>morgan torzítása
+3984'>mórhegyi bimbadil
+3960'>morin tigris
+6218'>morin tigris (új)
+908'>morpetlanik daruja
+3521'>morq fan gor
+462'>morran macmoran
+2637'>morzdomigron
+5621'>morzsoló yeti
+1198'>mosolygó rettenet
+1941'>most már elég
+2478'>most vagy soha
+3577'>mosthar
+5046'>mostoha szín
+424'>moszatrája
+3391'>motyogó harcos
+3398'>motyogó hírnök
+3101'>motyogó ősvégzet
+5856'>motyogó polikambrióta
+3570'>motyogó rítus
+3392'>motyogó sámán
+3394'>motyogó verem
+4106'>motyogórém
+2103'>muezli aranykeze
+436'>mugrak-képződmény
+2611'>muhartalpú mameluk
+5346'>muhartalpú mameluk (új)
+5854'>mulgan, a segítő
+2499'>múló szintlépés
+6128'>múló szintlépés (új)
+155'>múltidéző
+3701'>múltidéző (új)
+957'>múmia
+5021'>mumifikáló szolga
+3605'>munkagép
+1201'>mutáns
+3086'>mutáns asztrálszárnyas
+1248'>mutáns csontváz
+5853'>mutáns gladiátor
+5751'>mutáns hegyitroll
+2334'>mutáns klántag
+5280'>mutáns lemúr
+2554'>mutáns mágiafaló
+5381'>mutáns mágiafaló (új)
+4598'>mutáns myrkail
+795'>mutáns pók
+1942'>mutáns regeneráció
+842'>mösze tornádó
+335'>mösze uralkodó
+3283'>nagy limbó
+301'>nagy mágneses bigyó
+3051'>nagy pulzánsmágia
+2913'>nagy tohonya
+6007'>nagyobb átokpiramis
+4360'>nagyobb cafatrobbantás
+3291'>nagyobb életszívás
+6217'>nagyobb életszívás (új)
+2272'>nagyobb halálvarázs
+1473'>nagyobb idézés
+3944'>nagyobb káoszsújtás
+1119'>nagyobb kívánság
+1504'>nagyobb kreáció
+1985'>nagyobb tűzféreg
+847'>nagyobb vércápa
+6298'>nagyobb vércápa (új)
+4998'>nagyon vastag bőr
+2922'>nagytakarítás
+730'>nanda
+148'>nap szimbólum
+3730'>nap szimbólum (új)
+616'>napfókusz
+2421'>napgyermek
+766'>napkirály
+6242'>napkirály (új)
+1833'>napkirály ajándéka
+3734'>napkirály ajándéka (új)
+2225'>napkirály dala
+2664'>napkitörés
+2340'>naplovag
+4982'>napozó yeti
+2547'>napszellem
+3130'>narancshaj
+3993'>naso-thin nagyúr
+1911'>natali kő
+3132'>natharion gömb
+5532'>natuuk, a csáplord
+4420'>nederothi árnymágia
+2345'>nedonkutya
+5328'>nedonkutya (új)
+6033'>nefil-rin kutató
+333'>negáció
+3650'>negatív elementál
+2282'>negatív energia
+5295'>negatív energia (új)
+647'>negatív kisugárzás
+1336'>negatív létsík
+6136'>negatív létsík (új)
+1951'>negatív robbanás
+5672'>negeshin agyfürkész
+5771'>négykarú nitmák
+1775'>nehéz harci kesztyű
+2173'>nehéz szülés
+5486'>neidin angolna
+3393'>nekrit parazita
+4567'>nekrobestia
+115'>nekrofun
+2968'>nekrofun idol
+6046'>nekrofun máglya
+1355'>nekrofun medál
+2388'>nekrofun trón
+2420'>nekromancia
+3969'>nekromanta csontmester
+4571'>nekromanta csontváz
+3967'>nekromanta enyészúr
+3905'>nekromanta ítélet
+1953'>nekromanta lord
+3395'>nekromanta pálca
+3520'>nekromanta trükk
+3974'>nekromanta vezér
+3971'>nekromanták fattya
+3968'>nekromantanonc
+4535'>nekron mágus
+5108'>nekronsárkány
+2002'>nekropoid
+4584'>nekropolisz
+2901'>nektoraf
+1325'>nem várt segítség
+3532'>nemes númak
+6093'>nemes númak (új)
+4093'>nemesi párbaj
+5153'>nemesröptű frynn
+4435'>nerub behemót
+4412'>nerub csendvarázs
+4451'>nerub féregember
+4954'>nerub féregidomár
+4479'>nerub király
+4369'>nerub kórokozó
+4382'>nerub kőskorpió
+5190'>nerub méregköpő
+4452'>nerub méregsámán
+5265'>nerub patkányirtó
+4376'>nerub sziklaharcos
+644'>neurális tortúra
+5756'>neurokondenzátor
+4430'>nevelő
+1426'>niagren
+1386'>niagren pálcája
+3792'>niagren pálcája (új)
+5617'>nihilum kulcs
+4683'>nil herceg dalnoka
+2127'>nimgilarió csele
+4631'>niol, a csontsereg vezére
+3634'>niotherg, a védelmező
+4957'>nitaraj
+4958'>nitaraj szolgája
+2286'>nixorathi védőamulett
+1991'>nohnetár
+202'>nómenklatúra
+3700'>nómenklatúra (új)
+2490'>nomis leinád
+531'>nord
+5379'>nord (új)
+1852'>norpadolótika
+5667'>nőstény varkaudar
+1750'>notermanthi
+3762'>notermanthi (új)
+2831'>notermanthi bébi
+269'>notermanthi bölcsesség
+884'>noth szellem
+4176'>noth szellem (új)
+3300'>nugman gyümölcs
+3596'>nuk szolgája
+3599'>nuk uzsorája
+285'>nukleáris csatacickány
+3533'>númak királynő
+1631'>numenati laboratóriuma
+3323'>nyálkacsiga
+5402'>nyálkacsiga (új)
+4000'>nyálkás ormány
+2389'>nyámnyila nyara
+5744'>nyerő stratégia
+1067'>nyílcsapda
+2751'>nyirbálás
+1080'>nyitott tenyér
+4386'>nyolcadik csapás
+456'>nyomkövetés
+5193'>nyomorult gyűjtögetés
+5611'>nyomorult quwarg
+6108'>nyomorult quwarg (új)
+5604'>nyugalom
+5288'>nyugodt káin
+2852'>nyugodt pentadron
+1264'>nyuhaj karbin
+2723'>nyüzsgő férgek
+4583'>növekvő csáplény
+2018'>növekvő karom
+1997'>növekvő pöffeteg
+1723'>növesztő főzet
+1280'>ő a kegyencem
+4469'>obszidián lepel
+2578'>obszidiánsörényű pegazus
+4635'>ódon emlékmű
+4626'>ódzkodó manó
+2888'>oglyth
+3641'>oktopusz
+835'>okulüpaj
+6239'>okulüpaj (új)
+2137'>okulüpaj ajándéka
+815'>okulüpaj átka
+3553'>okulüpaj kacagása
+2698'>okulüpaj lovagja
+1227'>okulüpaj robbanó gömbje
+2691'>okulüpaj sóhaja
+1095'>olimpiai játékok
+1794'>olimpiai stadion
+2'>oltár eltörlése
+128'>olvasztókemence
+5601'>ómen, a fősámán
+3994'>omladék
+473'>ommó
+6247'>ommó (új)
+2574'>ommó naplója
+2910'>omrif élősködő
+1097'>ongóliant
+6183'>ongóliant (új)
+1419'>ongóliant bébi
+371'>ongóliant diszkoszvetés
+1639'>ongóliant hadúr
+3806'>ongóliant hadúr (új)
+397'>ongóliant lady
+1927'>ongóliant roham
+6167'>ongóliant roham (új)
+627'>ongóliant tombolás
+1436'>ónix piramis
+3646'>ónix szobor
+2847'>ónixtojás
+3317'>opál kalmár
+1194'>opati polip
+3869'>oppentren
+1541'>optiri agysisak
+570'>orbitális mackósajt
+850'>ordítás
+2323'>orgling bányász
+3380'>orgling birkózó
+5294'>orgling birkózó (új)
+3995'>orgling bűzgerjesztő
+4436'>orgling bűzisten
+3502'>orgling csatakürt
+2382'>orgling disznó
+3489'>orgling haszonállat
+5139'>orgling hekatomb
+6015'>orgling hős
+4570'>orgling kártevő
+2313'>orgling kutya
+2317'>orgling kölyök
+3495'>orgling mágus
+5158'>orgling málhás
+5213'>orgling mókamester
+2433'>orgling sámán
+5391'>orgling sámán (új)
+4045'>orgling szagparancsnok
+4429'>orgling szagvarázs
+3472'>orgling szájszag
+3381'>orgling szatócs
+5311'>orgling szatócs (új)
+2344'>orgling szolga
+3382'>orgling tanácsadó
+6193'>orgling tanácsadó (új)
+2434'>orgling törzsfőnök
+5392'>orgling törzsfőnök (új)
+2943'>orgling varázsló
+1331'>orgoró
+221'>orgyilkos
+1272'>orgyilkos tőr
+124'>óriás csontváz
+402'>óriás denevér
+4183'>óriás denevér (új)
+245'>óriás griff
+1467'>óriás hattyú
+5563'>óriás krabber
+5494'>óriás lámpáshal
+3047'>óriás manipulátor
+43'>óriás patkány
+860'>óriás pöfeteg
+6295'>óriás pöfeteg (új)
+3195'>óriás sáska
+307'>óriás skorpió
+3008'>óriás tohonya
+5'>óriáserő
+222'>óriásféreg
+5470'>óriási hullámok
+2302'>óriáskolibri
+5918'>óriáslajhár
+2171'>óriásmassza
+431'>óriásnövés
+1324'>óriások földje
+309'>óriáspók
+3741'>óriáspók (új)
+5587'>óriáspolip
+2669'>óriássárkány
+3030'>óriássólyom
+6102'>óriássólyom (új)
+1933'>óriásölő
+97'>őrjárat
+4460'>őrjöngő földicápa
+5541'>őrjöngő rém
+2678'>őrjöngő szilmill
+4089'>őrjöngő vérfarkas
+5714'>orjöngő yeti
+1897'>ork akrobata
+6112'>ork akrobata (új)
+2895'>ork alkoholista
+6129'>ork alkoholista (új)
+6038'>ork amulett
+2581'>ork barakk
+1896'>ork csontkovács
+683'>ork falu
+5861'>ork felderítő
+5885'>ork hadisámán
+2593'>ork harci szellem
+5788'>ork harcos
+6104'>ork harcos (új)
+1525'>ork inkvizítor
+1898'>ork katapult
+2650'>ork korbács
+6202'>ork korbács (új)
+2586'>ork kórház
+6179'>ork kórház (új)
+1214'>ork kunyhó
+2542'>ork kölyök
+2674'>ork lángvető
+3351'>ork megszállott
+6140'>ork megszállott (új)
+4561'>ork mesemondó
+1400'>ork sámán
+3352'>ork szerencsejátékos
+1445'>ork zászlós
+1435'>orkhan thai
+1451'>ormánygőte
+2152'>ormányos sirály
+5586'>ormat, a legyőzhetetlen
+1705'>oroszlánüvöltés
+4230'>oroszlánüvöltés (új)
+4416'>orrfacsaró bűz
+2474'>orrfricskázás
+1424'>ortevor
+1407'>ortevor bányái
+2602'>orthaudox
+2817'>őrült enkala, az animátor
+4948'>őrült harcos
+3438'>őrült kakadu
+2874'>őrült montrix
+5538'>őrült parancsnok
+3150'>őrült szajonn
+6244'>őrült szajonn (új)
+1622'>őrült trax
+4225'>őrült trax (új)
+1843'>őrült varázsló
+3735'>őrült varázsló (új)
+575'>orzag
+1098'>orzag bilincse
+3753'>orzag bilincse (új)
+1052'>orzag managömbje
+3763'>orzag managömbje (új)
+564'>őrző lord
+6137'>őrző lord (új)
+2346'>őrző szilmill
+1992'>ősbika
+2843'>ősbolhedor
+5430'>őscápa
+1652'>ősdentor
+2004'>őselementál
+5112'>ősellenség
+3246'>ősféreg
+5341'>ősféreg (új)
+2395'>osgari vadász
+2472'>ősgólem
+1834'>őshangya
+886'>őshangya boly
+4524'>őshangya boly (új)
+1870'>őshangya császár
+1800'>őshangya fanatista
+1772'>őshangya harcos
+1774'>őshangya here
+4428'>őshangya inkvizítor
+4480'>őshangya kamikázé
+1882'>őshangya királynő
+4525'>őshangya királynő (új)
+1663'>őshangya lélekbúvár
+4405'>őshangya messiás
+1735'>őshangya ostromgép
+1842'>őshangya sámán
+4523'>őshangya sámán (új)
+1646'>őshangya szabotőr
+1751'>őshangya testőr
+4522'>őshangya testőr (új)
+5516'>ősharcos
+1930'>őshonos óriás
+3290'>ősi béklyó
+3196'>ősi burjánzás
+3567'>ősi bűvölet
+3298'>ősi bölcsesség
+1341'>ősi csatamező
+2367'>ősi dal
+1647'>ősi ellentét
+4194'>ősi ellentét (új)
+3378'>ősi gyógyítás
+2036'>ősi gyógymód
+4050'>ősi halálmágia
+2079'>ősi hívás
+4143'>ősi jogar
+2497'>ősi kolostor
+1048'>ősi láthatatlanság
+4309'>ősi legendák
+3513'>ősi létezés
+2809'>ősi manifesztáció
+3193'>ősi matéria
+3647'>ősi praktika
+1221'>ősi rítus
+6111'>ősi rítus (új)
+1033'>ősi rúna
+2211'>ősi szertartás
+2102'>ősi szilmill
+3019'>ősi tekercsek
+5396'>ősi tekercsek (új)
+2034'>ősi templom
+1637'>őskáosz
+4306'>őskáosz (új)
+2360'>őskő
+5669'>ősminotaurusz
+2667'>ősmotyogó császár
+3169'>őspók
+1001'>ősquwarg
+3519'>őssárkány
+3542'>őstestvér
+6223'>őstestvér (új)
+5697'>ostoba goblin
+511'>őstroll agyaló
+1899'>ostrom
+6123'>ostrom (új)
+2703'>ostromtorony
+3306'>ősvillám
+5400'>ősvillám (új)
+2184'>ősvortex
+5647'>őszinte teofil
+4310'>ősök városa
+3258'>ősöreg dorka
+6265'>ősöreg dorka (új)
+2209'>ősöreg góliát
+5319'>ősöreg góliát (új)
+3277'>ősöreg mamut
+4061'>ősöreg vérfarkas
+3506'>ősöreg vyarg
+3514'>ottó csápja
+1873'>ouitmlen
+1780'>ouitmlen alkuja
+1650'>ouitmlen átka
+2795'>owooti alligátor
+4454'>owooti cselszövés
+5898'>owooti sárkány
+3890'>owooti trükk
+4367'>oxata
+4015'>ozixi thrill
+1586'>ozoaii
+5132'>ozohrat megoldása
+5232'>ozohrat segítsége
+5199'>ozorindumi aréna
+5141'>ozorindumi mágia
+2217'>pajzsfal
+5047'>pajzszúzás
+4131'>palabadanavakri
+1442'>palotaőr
+4501'>panatán békeőr
+4453'>panatán csillapítás
+1838'>páncélos lovag
+6134'>páncélos lovag (új)
+2781'>páncélos torgal
+3834'>páncélszerű bőr
+1135'>pánik
+3721'>pánik (új)
+4063'>paralizátor
+2358'>parancs
+2743'>párbaj
+3275'>párbajhős
+3222'>párbajtőr
+1850'>parhalakka
+4239'>parhalakka (új)
+663'>parittya
+5452'>páros affinitás
+2250'>páros gyógyulás
+2534'>partravetett medúza
+15'>passzivitás
+232'>patakvér
+404'>patkány rénó
+826'>pattanóböde
+1592'>pelegrin
+3456'>pelyhedző bőr
+4351'>pengedalnok
+6138'>peppe
+4974'>perzselés
+3980'>perzselő homok
+1474'>pestis
+5827'>petur
+2525'>phoebius
+5388'>phoebius (új)
+1322'>phua-kúp
+5317'>picinyke csoda
+3176'>pihenő
+2016'>pikkelyes bőr
+3127'>pikkelyes ptog
+971'>pikkelyes thorgat
+563'>pillanatnyi elmezavar
+3595'>pirgamit
+2179'>pirit gólem
+5819'>pirofordítás
+2945'>piromancer
+327'>piromenyét
+3718'>piromenyét (új)
+1666'>piroslámpás ház
+5340'>piroslámpás ház (új)
+1045'>planetáris manifesztáció
+1356'>planetáris őrdémon
+3693'>planetáris őrdémon (új)
+3414'>planned flamedix
+5444'>plazmacsepp
+4658'>plazmacsóva
+553'>pneumatikus amőba
+636'>pogányirtás
+98'>pogányság
+1921'>pókkirálynő
+6189'>pókkirálynő (új)
+6041'>pókmágus
+5276'>pókmalac
+6028'>pokolfarkas
+2485'>pokoli erő
+2792'>pokoli fájdalom
+3474'>pokolkatlan
+1626'>pokolkő
+46'>pókvadász
+2108'>pol-'de formosha
+3430'>polipfej
+1611'>polong
+4273'>polong (új)
+2494'>pondi, az ősmágus
+977'>pooyan
+2771'>por és homok
+3214'>porbasújtás
+3611'>porbel
+902'>pordémon
+632'>porfelhő
+2896'>porp csele
+2573'>porp ylit ron
+4547'>posh tekercse
+368'>poszogó möszék
+3858'>pótolhatatlan veszteség
+1688'>pozitív diszkrimináció
+1349'>pozitív létsík
+6177'>pozitív létsík (új)
+3926'>pozitív robbanás
+5691'>pozitrátor
+5253'>praglonc hírnök
+5249'>praglonc megsemmisítő
+5185'>préselés
+5905'>prevenció
+2112'>próbamester
+3873'>protectus
+1139'>proteinfecske
+3203'>proteinféreg
+3254'>proteinpöffeteg
+3215'>proteinsólyom
+2567'>protolisk lárva
+5735'>psychiofeata
+2986'>pszi csáp
+1765'>pszi elementál
+4241'>pszi elementál (új)
+1239'>pszi elementál lord
+2475'>pszi fúzió
+1395'>pszi kő
+1006'>pszi őselementál
+131'>pszi szakértelem
+580'>pszi-acéltorony
+1689'>pszi-ernyő
+5372'>pszi-ernyő (új)
+4433'>pszi-mester
+1090'>pszi-regeneráció
+2560'>pszi-sólyom
+2183'>pszichikai csapás
+3089'>pszifaló atka
+2198'>pszionicista klánvezér
+3345'>pszionikus bilincs
+3308'>pszionikus entitás
+6243'>pszionikus entitás (új)
+3272'>pterodaktilusz
+5469'>pufók moli
+652'>puha ütés
+2349'>puhányszint
+4025'>pukk
+3034'>pulzáló manazár
+2930'>pulzáló sólyom
+3327'>pulzáló vérvortex
+177'>púpos burástya
+3727'>púpos burástya (új)
+5877'>purgálás
+4139'>purifikáció
+249'>purifikátor
+2786'>purifikátor császár
+5875'>pusztító mameluk
+3399'>pusztító motyogó
+3437'>pusztító tűz
+111'>pusztító végzet
+2093'>pusztuljanak a hitetlenek
+2486'>pyrk vipera
+5920'>pyron
+774'>püspöki talár
+1430'>pöfögő kregon
+3227'>pökhendi manó
+3925'>q'uregxtos halálfaló
+538'>qriklix
+75'>quwarg
+1717'>quwarg anyakirálynő
+6261'>quwarg anyakirálynő (új)
+2278'>quwarg behemót
+6262'>quwarg behemót (új)
+3500'>quwarg birtokháborító
+182'>quwarg boly
+2142'>quwarg bölcs
+6176'>quwarg bölcs (új)
+4136'>quwarg célpont
+4457'>quwarg dögevő
+2276'>quwarg ellenállás
+5076'>quwarg fantom
+584'>quwarg felderítő
+4174'>quwarg felderítő (új)
+5261'>quwarg forradalmár
+2280'>quwarg hangyász
+3547'>quwarg harcmágus
+6260'>quwarg harcmágus (új)
+1136'>quwarg harcos
+2274'>quwarg helytartó
+1320'>quwarg ikerboly
+5878'>quwarg kaptárúr
+1346'>quwarg keltető
+410'>quwarg kém
+2277'>quwarg kincstáros
+223'>quwarg királynő
+3775'>quwarg királynő (új)
+3256'>quwarg lázhozó
+4075'>quwarg lidérc
+5690'>quwarg likantróp
+3484'>quwarg menetoszlop
+383'>quwarg méreg
+2279'>quwarg őrparancsnok
+6162'>quwarg őrparancsnok (új)
+1633'>quwarg ősmágus
+2273'>quwarg ősrobbanás
+882'>quwarg parafenomén
+623'>quwarg parazita
+1217'>quwarg rajzás
+4210'>quwarg rajzás (új)
+5172'>quwarg rekonstruktor
+5219'>quwarg reménység
+1836'>quwarg rohamosztagos
+1243'>quwarg szabotőr
+4167'>quwarg szabotőr (új)
+1335'>quwarg szamuráj
+2655'>quwarg szellem
+3900'>quwarg széltáncos
+4611'>quwarg szertartás
+4651'>quwarg takarító
+1153'>quwarg taposó tappancs
+5711'>quwarg testépítő
+3546'>quwarg tojásgondozó
+6259'>quwarg tojásgondozó (új)
+2780'>quwarg tűzköpő
+5676'>quwarg tömegoszlató
+2794'>quwarg vágóhíd
+3626'>quwarg ölész
+4468'>quwarg örömlány
+1332'>quwargok földje
+4200'>quwargok földje (új)
+5188'>quwarkaudar
+3624'>qwikrekson, a quwarg sámán
+6169'>qwikrekson, a quwarg sámán (új)
+2160'>ra'ronn
+405'>rabszolga
+2452'>rabszolgaság
+6314'>rabszolgaság (új)
+6061'>rabu-thin főbiztos
+4137'>rafinált boltos
+4933'>ragacsos bőr
+4620'>ragacsos iszappolip
+557'>ragadozó
+3801'>ragadozó (új)
+750'>ragaszkodás
+669'>ragasztó
+267'>ragyás burástya
+3780'>ragyás burástya (új)
+3458'>ragyás kriptod
+1612'>ragyogó ron
+4288'>ragyogó ron (új)
+4593'>raia bűbája
+118'>raia büntetése
+4660'>raia főpapja
+533'>raia kereszteslovagja
+4300'>raia kereszteslovagja (új)
+253'>raia küldetése
+2972'>raia követője
+93'>raia oltára
+1690'>raia papnője
+1396'>raia szent lovagja
+3747'>raia szent lovagja (új)
+1567'>raia szentélye
+255'>raia temploma
+107'>rájanyék
+3682'>rájanyék (új)
+1747'>rajtaütés
+2513'>rakonc
+5291'>rakonc (új)
+3876'>rakshallion főmágus
+3501'>rakshallion hadvezér
+890'>rambó bogár
+5062'>ramona
+1661'>raptor szablya
+3618'>raska
+6225'>raska (új)
+4346'>ravasz vérfarkas
+3377'>rd'alv lélektipró
+2860'>reanimátor
+569'>recirkulációs prizma
+5164'>redukció
+1625'>redyque
+3065'>reflex
+315'>regeneráció
+684'>regeneráló gyűrű
+2708'>régész
+2752'>régészet
+3885'>régészeti feltárás
+4080'>régi dallam
+193'>reinkarnáció
+5483'>rejtett örvény
+2569'>rejtő bőr
+1125'>rejtő köpeny
+95'>rejtőzködés
+5515'>rejtőző falu
+1703'>rejtőző manó
+4158'>rejtőző manó (új)
+200'>rekreáció
+574'>rémálom
+4980'>rémeb
+2984'>rémek tobzódása
+6149'>reménytelen lovas
+4944'>remira bűvölete
+4945'>remira haragja
+5752'>rémlovag
+2466'>ren
+1535'>rendellenes magnetizmus
+5042'>renvel, az álomszaggató
+5925'>repro
+1275'>repülés
+2296'>repülő erőd
+5001'>repülő motyogó
+1307'>restauráció
+3144'>részeg mámor
+5033'>reti
+438'>rettegés
+319'>revitalizáció
+3889'>révület
+5648'>rezisztencia
+5776'>reznagol
+5665'>rhatt apró ügynöke
+5007'>rhatt báránya
+5189'>rhatt bűbája
+4311'>rhatt fénykora
+4299'>rhatt fénylovagja
+4088'>rhatt forgószele
+4052'>rhatt haragja
+5549'>rhatt hárítása
+4343'>rhatt kisebb bajnoka
+4356'>rhatt markában
+4340'>rhatt nagyobb bajnoka
+4065'>rhatt oltára
+4019'>rhatt papja
+4042'>rhatt pillantása
+4102'>rhatt sárkánya
+972'>riadó
+357'>riknatikus röfögés
+2841'>riomarilliondi
+5342'>riomarilliondi (új)
+914'>riposzt
+328'>rius
+737'>rius kacagása
+3844'>rizikó
+4672'>ro'galhal gyóntató
+4384'>robbanó birkák
+2224'>robbanó rúna
+1752'>robbanó üstökös
+6105'>robbanó üstökös (új)
+1770'>robbantás
+6117'>robbantás (új)
+1670'>roguena
+5258'>rogyasztó
+1299'>roham
+3662'>roham (új)
+4394'>rohamozó faroktüske
+373'>rohanó idő
+6075'>rolf
+161'>rombolás
+1719'>romboló
+3670'>romboló (új)
+2746'>romboló féreg
+2827'>romlás
+4941'>romvár
+3200'>roncsoló végtag
+5009'>rongybaba
+5616'>rosalinda
+3257'>rosszullét
+174'>rothadás
+3897'>rothadó borzalom
+3872'>rothadó katapult
+4536'>rothadó mágus
+213'>rothadó mocsarak
+3973'>rothadó test
+1563'>rothasztó érintés
+2038'>rothasztó karom
+406'>rőtmanó
+4189'>rőtmanó (új)
+1923'>rovarirtás
+2469'>rovarsámán
+5382'>rovarsámán (új)
+4161'>róvth, a renegát
+2577'>rox, a csontok ura
+1874'>roxati üvegszem
+168'>roxati zárfaló
+5247'>rsk'omikrotan, a megölhetetlen
+3219'>rubin drakón
+4599'>rubin fókuszkristály
+5412'>rubin nektár
+5836'>rubin végzetúr
+1557'>rubingólem
+4281'>rubingólem (új)
+5283'>rubinmarkolatú nyúzókés
+5859'>rubinszemű éjvirág
+3119'>rubinsörényű pegazus
+6200'>rubinsörényű pegazus (új)
+3098'>rubintos aura
+6171'>rubintos aura (új)
+5728'>rugalmas erőforrás
+773'>rughar
+6240'>rughar (új)
+1854'>rughar ajándéka
+5552'>rughar átka
+690'>rughar dilemmája
+1176'>rughar familiárisa
+978'>rughar gépezete
+359'>rughar monolitja
+1434'>rughar varázskönyve
+3095'>ruh nestah, az átok
+5671'>rúnabárd
+4441'>rúnacsáp
+3822'>rúnacsapás
+922'>rúnakő
+3598'>rundhal, a gyűjtögető
+5106'>ruvaghan ostroma
+2483'>rúvel hegyi őrgólem
+2008'>rücskös bőr
+4005'>rücskös látógömb
+5824'>rücskös minotaurusz
+2159'>rynthus
+3810'>ryuku átokvarázs
+6253'>ryuku átokvarázs (új)
+3022'>ryuku gólem
+4527'>ryuku harci szekér
+4062'>ryuku őrtorony
+3021'>ryuku ostromteknős
+94'>rövid kard
+1606'>sáfránypor
+4375'>sagarothi árnyékfaló
+4455'>sagarothi ballada
+2447'>sahran rák
+5296'>sahran rák (új)
+4397'>sajbi
+3199'>sakál
+4656'>sakita
+6084'>samantha
+5764'>sang, a hetedik
+4973'>sangin yeti
+1906'>sanual
+224'>sardullah sharpa
+2451'>sárgaláz
+2607'>sárkány úrnő
+379'>sárkánybébi
+3711'>sárkánybébi (új)
+1449'>sárkányfatty
+2022'>sárkányfej
+4119'>sárkányfióka
+5703'>sárkányfőnix
+2924'>sárkányforma
+1552'>sárkányidomár
+5415'>sárkányidomár (új)
+6059'>sárkánykígyó csemete
+3213'>sárkánylárva
+4670'>sárkánymágia
+520'>sárkányok kora
+5442'>sárkányteknős poronty
+1532'>sárkánytojás
+1573'>sárkányvár
+1337'>sárkányölő kard
+5659'>sármanó
+4014'>sáskajárás
+2618'>savas eső
+1165'>savas üvegcse
+6122'>savas üvegcse (új)
+2380'>savcsapás
+2121'>savelementál
+1549'>savgólem
+1087'>savhurrikán
+160'>savlehelet
+1128'>savmágia
+4090'>sebezhetetlen vérfarkas
+1492'>sebkötözés
+3978'>sebokozás
+4036'>sebzett vérfarkas
+485'>segítő kéz
+1710'>segítsd a gyengéket
+1461'>sellő
+5432'>sellő őrszem
+5176'>sellőszellem
+3862'>selyemgubó
+4507'>selyemszárnyas
+4490'>semleges csatamező
+4117'>semmi trükk
+203'>setét patkány
+3304'>sheran áldása
+543'>sheran békelovagja
+4293'>sheran békelovagja (új)
+5882'>sheran bűbája
+5852'>sheran ékköve
+312'>sheran küldetése
+706'>sheran könnyei
+6181'>sheran könnyei (új)
+2978'>sheran követője
+1691'>sheran lázadása
+3678'>sheran lázadása (új)
+711'>sheran megalázása
+96'>sheran oltára
+608'>sheran papnője
+664'>sheran szentélye
+323'>sheran temploma
+2550'>sheran trükkje
+1877'>sheran védősárkánya
+6196'>sheran védősárkánya (új)
+3174'>shivanasti szarkofágja
+3223'>shokara bogár
+3919'>shomori kínmágia
+2157'>shuan'darr
+1127'>sighter
+184'>sihaya
+5012'>sikeres áldozat
+542'>síkok vándora
+5917'>sikolydémon
+986'>silistra
+6052'>silla, a kilencedik
+5706'>silx, az imperátor
+1635'>siol von uman báró
+2245'>siormhad bilincse
+1964'>sir lonil zomar
+1339'>sir magic master
+3289'>sir rasolphius
+504'>sir tobias
+490'>sírásó
+6292'>sírásó (új)
+1170'>sírlidérc
+4442'>sírrabló
+208'>sistergő pumpa
+3748'>sistergő pumpa (új)
+4630'>sivador, a dagadt vámpír
+500'>sivatagi doareg
+5822'>sivatagi teknős
+591'>sivító béka
+3688'>sivító béka (új)
+2576'>skarlátia
+1662'>skorpió klán
+1781'>skorpiócsípés
+6313'>skorpiócsípés (új)
+2031'>skorpiófarok
+109'>smack
+1112'>smack rabszolgái
+2073'>smack, a tisztogató
+6203'>smack, a tisztogató (új)
+2957'>smaragd drakón
+3904'>smaragd dzsinn
+4562'>smaragd fókuszkristály
+1890'>smaragd gólem
+4304'>smaragd gólem (új)
+3642'>smaragd griff
+2985'>smaragd ragadozó
+3321'>smaragd tigris
+5845'>smaragd végzetúr
+342'>smaragdgyűrű
+2730'>smaragdsörényű pegazus
+3426'>smaragdvámpír
+3847'>sog
+190'>sóhajtó dorony
+4196'>sóhajtó dorony (új)
+952'>sokk
+3419'>sokoldalú építőmester
+4679'>sokszínűség
+3478'>solatopolka
+2784'>solisar aurája
+4476'>sommerthaug átka
+3211'>soranhawke
+4939'>sorsforduló
+8'>sorvasztás
+2914'>sorvasztó érintés
+1173'>spagulár
+4654'>speciális védelem
+3253'>specializáció
+5802'>spektrális manipuláció
+5812'>spektrális skorpió
+1505'>spontán égés
+4155'>spontán égés (új)
+1986'>spóra
+5476'>sportszerűség
+1281'>stabilizátor
+4955'>stratégia
+4519'>suiraqua, a várvédő
+1245'>sullár
+1518'>súlyzó
+6020'>sunyi manó
+592'>surranó kígyó
+3664'>surranó kígyó (új)
+5100'>surusha bogár
+1632'>sutor kragoru
+1370'>sutor kragoru tornya
+5753'>swaizz kísértete
+5906'>swind
+2128'>syejjcc
+5405'>syejjcc (új)
+1392'>syndel
+586'>sünmedve
+475'>sysania selune
+1569'>süvítő rája
+2848'>szabad áramlás
+1721'>szabad madár
+4242'>szabad madár (új)
+5732'>szabad zsoldos
+1497'>szabotázs
+5680'>szaglászó vérfarkas
+2531'>száguldó idő
+5331'>száguldó idő (új)
+2825'>szajonn mágiája
+639'>szakadék
+2477'>szakértő szyl
+1317'>számmágia
+4133'>szánalmas teknős
+6042'>szándékos pusztítás
+5663'>szapora törpe
+6'>szaporítás
+2680'>szaporodó féreg
+5293'>szaporodó féreg (új)
+3165'>szárnyaló halál
+2844'>szárnyas bolhedor
+1462'>szárnyas csirmáz
+53'>szárnyas gömböc
+4618'>szárnyas halálfatty
+2965'>szárnyas krág
+4040'>szárnyas sztahura
+3537'>szárnyas szuszi
+5874'>szárnyaskirálynő
+3365'>szárnyaspók
+5705'>szárnyaszegett
+3406'>szarvasagancs
+5528'>százéves teknős
+63'>százfogú
+1748'>szédülés
+1520'>szekértábor
+2028'>széljárás
+6279'>szélkötés
+4377'>szellembéklyó
+2916'>szellemdarázs
+478'>szellemharcos
+3053'>szellemi bűbáj
+2437'>szellemkalapács
+1627'>szellemlovag
+1808'>szellempajzs
+1261'>szellemszolga
+4169'>szellemszolga (új)
+1709'>szellőléptű elvatar
+4390'>szélsikló
+429'>szélsőséges időjárás
+2297'>szélszolgák
+1310'>szélvihar
+281'>szem szimbólum
+2521'>szemet szemért
+5590'>szemfényvesztő
+364'>szemmelverés
+2651'>szende ughal
+3870'>szennyezett vadon
+1792'>szent inkvizítor
+257'>szent jogar
+1856'>szent kehely
+844'>szent kulacs
+6301'>szent kulacs (új)
+4034'>szent pajzs
+2660'>szent sólyom
+1481'>szent szó
+2639'>szent taréj
+2558'>szent tölgy
+4617'>szentségtelen kapu
+1512'>szentségtelen szó
+5431'>szépia
+5629'>szépítés
+1660'>szeppent rákfatty
+5096'>szépséges papnő
+1900'>szepuku
+4160'>szepuku (új)
+4940'>szeráf
+1240'>szerelemsárkány
+6204'>szerelemsárkány (új)
+1926'>szerelmes óriás
+5585'>szerelmi háromszög
+6078'>szerencsecsapda
+1316'>szerencsejáték
+6083'>szerencsés fürkészés
+5785'>szerencsés hopner
+2850'>szerencsés sújtás
+2849'>szerencsés szám
+2553'>szerencsetalizmán
+5228'>szerencsétlen manó
+2598'>szerencsevadász
+274'>szerepcsere
+5457'>szertartásmester
+1540'>szertelenke
+170'>széthúzás a bandában
+1452'>szibarita váz
+4185'>szibarita váz (új)
+1496'>szigony
+2858'>szikkadt motyogó
+3268'>sziklacsápok
+4978'>sziklahajítás
+2991'>sziklaóriás
+2951'>sziklaóriás sámán
+1706'>sziklarepesz
+4187'>sziklarepesz (új)
+2549'>sziklaskorpió
+4943'>sziklavár
+991'>sziklazuhatag
+2327'>sziklazúzó rogan
+403'>sziklozug
+2564'>szikra
+6050'>szikráció
+3811'>szikrázó manahal
+5884'>szilánktündér
+2710'>szilmill bűbájmester
+2688'>szilmill fanatista
+3264'>szilmill fejvadász
+2989'>szilmill harci dobos
+2693'>szilmill hordavezér
+5644'>szilmill kapitány
+4971'>szilmill őrmester
+2702'>szilmill osztagparancsnok
+2711'>szilmill sámán
+4073'>szilmill silbak
+2681'>szilmill spórák
+6115'>szilmill spórák (új)
+6021'>szilmill torokharapó
+2953'>szilmill zászlóvivő
+3079'>szimbionta
+1074'>szimulákrum
+4094'>szinaptikus kapcsolódás
+2871'>szinaptikus matador
+411'>szinati harcművész
+863'>szinati szerzetes
+6310'>szinati szerzetes (új)
+47'>színes dözmöng
+3654'>színes dözmöng (új)
+5791'>szinguláris gyengeség
+5730'>szinguláris szaggató
+79'>szintlépés
+3674'>szintlépés (új)
+86'>szintszívás
+188'>szintszívó
+3731'>szintszívó (új)
+2631'>szipolyozó
+5591'>sziránusz behálózás
+5526'>sziránusz bosszúálló
+5571'>sziránusz bűbáj
+5521'>sziránusz hárfa
+5435'>sziránusz stratégia
+5893'>sziránusz tortúra
+2769'>szirén fattyú
+2044'>szitherin béklyó
+5113'>szithon vérfókusz
+4467'>sziturena
+757'>szivárványhíd
+3600'>szivárványkristály
+3424'>szivárványsörényű pegazus
+1778'>szívesség
+503'>szívkereső
+153'>szívroham
+5240'>szkritter dolgozó
+3933'>szkritter esélyleső
+4409'>szkritter lidérclord
+3491'>szkritter nekromanta
+5505'>szkritter rettenet
+3436'>szkritter ölész
+4464'>szmoggyer
+951'>szoborpark
+2994'>szójer entitás
+391'>szójer királynő
+2920'>szójer lárva
+2892'>szójerváladék
+2962'>szokatlan ceremónia
+6216'>szokatlan ceremónia (új)
+4448'>szőke martin
+2591'>szolga
+3452'>szomorú kötelesség
+3225'>szomorú szerelmek hercege
+2773'>szonikus áspis
+216'>szopógödör
+1255'>szőrlajhár
+1827'>szorrátor bogár
+3260'>szőrtelen tarantula
+3813'>szőrtelen wombramung
+2118'>szőrös azuka
+1571'>szőrös bozsó
+2749'>szőrös harács
+944'>szőrös pók
+1417'>szőröspók őrdémon
+6160'>szőröspók őrdémon (új)
+1725'>sztatikus orkán
+5651'>sztraunusz apó
+5472'>szuboptimális merülés
+801'>szubreális vámpír
+4280'>szubreális vámpír (új)
+5830'>szubtéri érzékelés
+5463'>szűk esztendők
+2163'>szundító galetki
+3861'>szunnyadó kullancs
+4115'>szúnyogirtás
+1359'>szuperpszí
+2457'>szusza
+1216'>szutykos remák
+1796'>szűz hó
+5660'>szükségmegoldás
+1268'>születésnap
+5154'>szürke aktivátor
+2136'>szürke lajhár
+2516'>szürke rinocérosz
+339'>szürkeállomány aktivizálása
+6051'>szürreális élmény
+1693'>szökőár
+2903'>szökőkút
+370'>szörnybűvölés
+5373'>szörnybűvölés (új)
+1475'>szörnycsábítás
+1649'>szörnycsontváz
+1608'>szörnyek évadja
+4294'>szörnyek évadja (új)
+1269'>szörnyidézés
+911'>szörnyidomítás
+4566'>szörnyszülött
+3965'>szörnyűséges templom
+1197'>szörnyvisszaidézés
+2383'>szövetségi barlang
+2999'>szövetségi istálló
+1446'>szövőpók
+74'>sörényes ubuk
+4190'>sörényes ubuk (új)
+460'>sörsátor
+308'>sörtehajú ninsai
+2977'>sörtés oprasszum
+1791'>sötét árny
+4272'>sötét árny (új)
+125'>sötét ceremónia
+2963'>sötét elf íjász
+2430'>sötét elf nekromanta
+4345'>sötét elf úrnő
+3325'>sötét elmepótlás
+999'>sötét erők idézése
+824'>sötét főgnóm
+1328'>sötét föld
+4207'>sötét föld (új)
+225'>sötét gnóm
+35'>sötét halál
+1487'>sötét ital
+3620'>sötét kántor
+1561'>sötét kastplom
+4312'>sötét kor
+2041'>sötét mágia
+2614'>sötét manifesztáció
+201'>sötét motyogó
+3772'>sötét motyogó (új)
+6029'>sötét nagyúr
+4122'>sötét űr
+5550'>sötét vizek ura
+1707'>sötétségszellem
+348'>t. vlagyimir
+3791'>t. vlagyimir (új)
+1653'>taalru
+4216'>taalru (új)
+2210'>taalru herceg
+4610'>táborparancsnok
+2215'>taga
+4372'>tak, a rabszolgahajcsár
+3990'>takaida hívása
+2764'>takarító
+745'>takonypóc
+2087'>taktika
+4348'>talált kincs
+2207'>talbot kínja
+2174'>talbot szava
+1837'>talpig vasban
+2208'>talriai behemót
+2654'>támadó taktika
+1907'>tanaka, a merész
+1158'>táncoló fegyver
+1306'>táncoló lángok
+3139'>táncoló ogre
+4082'>tanítómester
+1366'>tanulékonyság
+5099'>tanulságos mese
+1181'>tapasztalatcsere
+1929'>taposás
+6156'>taposás (új)
+2967'>tarajos khazdar
+5633'>targantula
+28'>tárgyvédelem
+5636'>tariklész
+4930'>tarimász, a csúf
+5239'>tárogató
+3241'>tartós károsodás
+1175'>tatudob
+82'>taumaturgia
+5310'>taumaturgia (új)
+4332'>taumaturgikus transzformáció
+2899'>taumaturgikus vért
+4035'>taurus
+120'>távcső
+3695'>távcső (új)
+1164'>tazunkaróka
+3497'>tébolyult tűzmágus
+4657'>techiánaflux
+1207'>technokolin
+326'>téfea magoflux
+2339'>tehemót
+5862'>tehetetlen monstrum
+4986'>tehetségtelen szilmill
+5473'>teishin keselyű
+5737'>teknős berzerker
+3874'>teknős csapda
+5566'>teknős gárdista
+6060'>teknős hálótolvaj
+5174'>teknős hínártorony
+5118'>teknős holdnyelő
+5700'>teknős kém
+5205'>teknős leviathán
+3879'>teknős mágiapáncél
+4135'>teknős páncélfoltozó
+4129'>teknős planktonmester
+4423'>teknős renegát
+5266'>teknős szellem
+5187'>teknős sziget
+3932'>teknős vezér
+4608'>teknősfészek
+1801'>teknőspáncél
+5238'>teknőstojás
+1084'>tektonikus kvatáns
+4296'>tektonikus kvatáns (új)
+2299'>telepatikus rém
+1189'>teleportálás
+1455'>telhetetlen pöfeteg
+4056'>telihold fia
+5165'>telihold idéző
+1488'>teljes fordulat
+1041'>teljes front
+3713'>teljes front (új)
+1864'>teljes gyógyulás
+2526'>teljes káosz
+5114'>teljes kiszipolyozás
+254'>teljes kvatáció
+4938'>teljes megtisztulás
+4575'>teljes morf
+694'>teljes mozgósítás
+2873'>teljes napfogyatkozás
+578'>teljes negáció
+712'>teljesség
+5907'>telkarid agyszívó
+2793'>temetetlen múlt
+215'>temető
+3774'>temető (új)
+3911'>temetőlidérc
+5095'>templomfosztogatás
+1064'>templomi orgona
+2917'>templomos maszk
+407'>templomszolga
+4077'>temporális gát
+5489'>tengeri áramlat
+1959'>tengeri manó
+5498'>tengeri parazita
+5434'>tengeri sárkány
+5480'>tengerrengés
+2193'>tenyészmanifesztáció
+1291'>teológia
+2141'>terc
+1215'>teremtés
+3660'>teremtés (új)
+2287'>teremtő erő
+3507'>teremtő rakshallion
+3640'>teremtőmágus
+1053'>térfaló
+6022'>térfaló manaspórák
+670'>térkapu
+5687'>természetes annihiláció
+457'>természetes kiválasztódás
+1290'>természeti katasztrófa
+2150'>természetvédő
+5595'>termetes vízikígyó
+2546'>termonukleorodon
+5312'>termonukleorodon (új)
+5900'>terrgath
+3947'>terrorteknős
+6081'>térsűrítés
+6030'>tértorzítás
+1343'>térutazás
+2562'>tesh alligátor
+3064'>testzabáló
+181'>tetemember
+3677'>tetemember (új)
+3643'>tétlenség
+3361'>tévút
+5206'>teziouh, a harmadik
+1069'>tguarkhan
+4202'>tguarkhan (új)
+2876'>tguarkhan kölyök
+4984'>thargodan
+1786'>thargodan csatamező
+1410'>thargodan csatatank
+2661'>thargodan fenevad
+2523'>thargodan harcos
+2875'>thargodan maszk
+5818'>thargodan szolga
+4587'>tharr bűbája
+157'>tharr haragja
+697'>tharr harci dala
+539'>tharr harcos lovagja
+4248'>tharr harcos lovagja (új)
+830'>tharr keresztje
+288'>tharr küldetése
+2988'>tharr követője
+100'>tharr oltára
+143'>tharr pajzsa
+603'>tharr papja
+302'>tharr temploma
+3404'>thauglorendon
+5896'>thegedis mcwhagdall
+3954'>thempi gyógymód
+2961'>théroxi sámuel
+983'>thor, a sárkányölő
+4240'>thor, a sárkányölő (új)
+3415'>thorazin
+2583'>thormedor, vadászmester
+5899'>thorunaga
+4450'>thrax halálcsapás
+5115'>thu'zad
+4644'>thu'zad hazaérkezése
+5218'>thu'zad időhurka
+5573'>thu'zad látomása
+5079'>thu'zad megszégyenítése
+5584'>thu'zad merengése
+5910'>thu'zad tanulmányútja
+5686'>thu'zad teóriája
+4456'>thu'zad utazása
+3877'>tibbah
+5496'>tigriscápa
+1715'>tigroszlán
+4020'>tigroszlán karom
+964'>tilgellagad
+3515'>tilretas fala
+3100'>tilretas védőburka
+629'>tiltott mágia
+5588'>timera döntése
+6079'>timera frissítője
+5782'>timera gondolata
+3579'>timera haragja
+5262'>timera hőse
+3576'>timera kacagása
+5781'>timera kacsintása
+3309'>timera sújtása
+3528'>timera szolgálólánya
+3573'>timera trükkje
+6080'>timera varázsitala
+3261'>timera, a szerencse asszonya
+6077'>timera, a szerencse asszonya (új)
+5716'>times-hin diktátor
+67'>tintacsiga
+6036'>tirik-hun gladiátor
+3003'>tirranda
+2990'>tirranda átka
+5324'>tirranda átka (új)
+5242'>tirranda batyuja
+3005'>tirranda üstje
+2747'>tiszta eső
+3212'>tiszta fény
+1934'>tiszta játék
+5196'>tiszta lappal
+5278'>tisztelet
+5043'>tiszteletdíj
+3851'>tisztiszolga
+17'>tisztítótűz
+1298'>tisztogatás
+2199'>tisztogató klánvezér
+5271'>titanitbányászat
+1973'>titánkolosszus
+4126'>titánpók
+5615'>titkok tudója
+928'>titkos folyosó
+2422'>titkos manaforrás
+1617'>titkos rituálé
+2579'>titokzatos toronyszoba
+3238'>tl'urlang tojás
+3855'>tl'urlang vadász
+3628'>tleikan áruló
+3898'>tleikan behemót
+3311'>tleikan bűvölő
+3061'>tleikan enyészvarázs
+6246'>tleikan enyészvarázs (új)
+3294'>tleikan főbíra
+3197'>tleikan házőrző
+3612'>tleikan rémeb
+2545'>toborzás
+5773'>tőcse, a szúnyogirtó
+3447'>togya-ork
+2636'>tohonya til
+2779'>tojásrakó pöfeteg
+3996'>tók, az orgling legenda
+6285'>tokozó rakshallion
+5666'>tokozott átok
+3807'>tollaskígyó
+1570'>tolmokov koktél
+2330'>tolvaj klántag
+6207'>tolvaj klántag (új)
+2229'>tolvaj klánvezér
+1742'>tolvajcéh
+5018'>tolvajkulcs
+2819'>tolvajlás
+2613'>tolvajok tolvaja
+233'>tolvajszem
+3704'>tolvajszem (új)
+5244'>tom, a villámkezű
+5274'>tomarr, a pöröly
+3820'>tombolás
+4950'>tomboló csata
+5194'>tomboló fatty
+393'>tomboló óriás
+849'>tomboló ovgar
+532'>tomboló vihar
+4251'>tomboló vihar (új)
+858'>tomboló yeti
+2218'>tompítás
+2100'>tonyók, a gazda
+5184'>topáz fókuszkristály
+1546'>topránypolip
+5741'>tőrmágia
+606'>tormikus egér
+4580'>tornádó
+1655'>toronyőr
+2487'>torq, az inkvizítor
+4399'>torqan, a púpos
+3483'>torz kriptod
+1965'>torz talbot
+5793'>torzszülött vadászat
+1043'>totális agymosás
+1401'>totális háború
+1296'>totemoszlop
+4470'>totenhat, a féreg
+3985'>toth amath
+2572'>totyogó motyogó
+3295'>tou szang
+1591'>tou szang kihívása
+1539'>tou szang tánca
+4659'>továbbfejlesztett technika
+1884'>toxikus csatatér
+5851'>toxikus lárva
+2435'>toxikus spóra
+5320'>toxikus spóra (új)
+4081'>tőzegelementál
+2226'>traard
+1529'>trákin csákánya
+337'>transzformáció
+2443'>transzformációs mező
+2929'>transzformálás
+3249'>transzformáló szív
+5347'>trapéz
+1266'>trappoló dinymák
+6146'>trappoló dinymák (új)
+1058'>treem feljegyzései
+244'>treem, a bölcs
+2992'>tremoran
+2686'>triklopsz
+247'>trikornis
+1826'>trikornis herceg
+6296'>trikornis herceg (új)
+5704'>trinigan
+5119'>trinigan dilemmája
+5723'>trinigan energiapuffasztása
+5220'>trinigan iszákja
+5724'>trinigan paradoxona
+5200'>trinigan tagadása
+349'>tripla szintlépés
+865'>triton
+1502'>trófea
+5282'>trógaz
+2329'>troglodita
+2445'>troglodita főzet
+2446'>troglodita herceg
+3041'>troglodita istenség
+2403'>troglodita sátor
+420'>troglodita törzsfőnök
+4182'>troglodita törzsfőnök (új)
+5529'>troglodita úszóbajnok
+2392'>troglodita vajákos
+77'>troll
+459'>troll csatakiáltás
+960'>troll lady
+6116'>troll lady (új)
+2981'>troll ritualista
+2035'>trollbőr
+310'>trollfa
+4292'>trollfa (új)
+740'>trollkeltető zóna
+40'>trónfosztás
+426'>trosnyogó szakóca
+1628'>trükkmester
+4150'>trükkmester (új)
+2115'>trükkös csel
+1130'>tsalez lau'pez
+5063'>tuathen király múmiája
+2796'>tudatcsapás
+3945'>tudatcsere
+3337'>tudatfagyasztás
+1762'>tudatfaló
+3761'>tudatfaló (új)
+5445'>tudati blokkolás
+1132'>tudati égetés
+729'>tudati fejlesztés
+879'>tudati klónozás
+6048'>tudati klónozás (új)
+3341'>tudati kohézió
+1308'>tudati lenyomat
+2351'>tudati méreg
+646'>tudati vitalizáció
+1000'>tudatkiesés
+633'>tudatkorbács
+1234'>tudatkutatás
+1195'>tudatlanság
+104'>tudatrombolás
+2471'>tudatroncsoló mancs
+166'>tudatturbó
+2412'>tudatvihar
+3075'>tudományos felfedezés
+2200'>tudós klánvezér
+2343'>tudós szilmill
+3931'>tudós teknős
+147'>tugt-ork
+2203'>tulajdonságlopás
+5365'>tulajdonságlopás (új)
+628'>túlburjánzás
+3104'>túlbuzgó építőbrigád
+1361'>túlélők földje
+4218'>túlélők földje (új)
+1274'>túlerő
+5583'>túlnyomás
+4355'>túltöltődés
+6251'>túlzó szeretet
+2798'>tűnékeny csábítás
+6211'>tűnékeny csábítás (új)
+2904'>turhulug
+5769'>tűzbéka
+3038'>tűzbogarak
+855'>tűzcsapás
+5289'>tűzcsapás (új)
+722'>tűzelementál
+23'>tűzeső
+3745'>tűzeső (új)
+2172'>tűzfal
+1254'>tűzféreg
+1694'>tűzfőnix
+5308'>tűzfőnix (új)
+5810'>tűzfuvallat
+2281'>tűzförgeteg
+6124'>tűzförgeteg (új)
+5446'>tűzgólem
+643'>tűzgolyó
+2130'>tűzhurrikán
+1998'>tűzivadék
+4602'>tűzkapu
+874'>tűzkard
+4047'>tűzkullancs
+5841'>tűzköpő torony
+1278'>tűzlehelet
+854'>tűzmadár
+234'>tűzmágia
+3723'>tűzmágia (új)
+4615'>tűzmanó sámán
+872'>tűzmester
+1668'>tűzpajzs
+3231'>tűzparancs
+3389'>tűzpöfögő
+4130'>tűzrakás
+5770'>tűzrituálé
+5150'>tűzszarv
+875'>tűzszekér
+1576'>tűzszövetség
+3331'>tűztáncos
+3067'>tűzvihar
+5803'>tyeoral
+2757'>tükördémon
+1566'>tükörkép
+1498'>tükörpajzs
+4173'>tükörpajzs (új)
+2645'>tükörsólyom
+4484'>tündérsárkány
+1917'>tündérszúnyog
+3110'>tündöklő griff
+4335'>tündöklő ősi torony
+1398'>tyrannosaurus rex
+5422'>tyrannosaurus rex (új)
+1598'>türelem
+3056'>türkiz sárhajító
+6119'>türkiz sárhajító (új)
+4357'>tyrxacotl
+2356'>tüske
+91'>tüskecsapda
+1196'>tüskepajzs
+1824'>tüskés bikaborz
+4044'>tüskés dohratog
+1003'>tüskés gigaféreg
+950'>tüskés harci gromak
+4178'>tüskés harci gromak (új)
+1996'>tüskés hólyag
+5303'>tüskés hólyag (új)
+2029'>tüskés karom
+4609'>tüskés ktoraid
+1977'>tüskés tóni
+2379'>tüskés végzetúr
+5362'>tüskés végzetúr (új)
+3208'>tökéletes csend
+6025'>tökéletes rejtekhely
+5786'>tökéletes összpontosítás
+3340'>tömegátok
+2851'>tömegbájolás
+6212'>tömegbájolás (új)
+447'>tömeghisztéria
+6186'>tömeghisztéria (új)
+505'>tömegmészárlás
+72'>törpe
+2053'>törpe bánya
+3418'>törpe ellentámadás
+1575'>törpe építő brigád
+3633'>törpe hős
+814'>törpe kovács
+2556'>törpe pálinka
+2836'>törpe-gnóm glion
+1211'>törpemammut
+3087'>törpetárna
+378'>u.m.a.
+900'>udvari bolond
+512'>udvari intrika
+248'>udvari mágus
+749'>udvari zenész
+172'>ugh méreg
+1920'>új élet sarjad
+1338'>új nemzedék
+311'>új remény
+126'>újjáépítés
+2019'>újjászületés
+746'>újrahasznosítás
+1607'>uldenerath
+2969'>ulthaodron
+2921'>ulthaodron támadás
+5850'>ultraspecializáció
+5754'>ulurqia
+1695'>uman szelleme
+3768'>uman szelleme (új)
+1803'>umbatari bromag
+913'>umbatari karkötő
+71'>umor-pióca
+1861'>unalmas béke
+5226'>unaloműző
+358'>unáris plantáció
+2541'>undok gnómocska
+5628'>undorfutnok
+5014'>univerzális katapultállomás
+3942'>univerzális megoldás
+194'>unkreáció
+803'>urgod
+6195'>urgod (új)
+1859'>urgod ajándéka
+1761'>urgod csapása
+4177'>urgod csapása (új)
+1079'>urgod fétise
+2648'>urgod haragja
+3411'>urgod káoszpajzsa
+923'>urgod szikrája
+1206'>úszás
+5493'>úszóhártya
+1375'>utánpótlás
+897'>utcakölyök
+3145'>uthan teriadan
+3004'>uthanax
+2049'>utolsó áldás
+318'>utolsó esély
+189'>utolsó kívánság
+3135'>utolsó lehetőség
+1259'>útonálló
+818'>uwalla
+4267'>uwalla (új)
+113'>uzbány
+550'>vadász burástya
+2275'>vadász quwarg
+354'>vadász tatu
+1204'>vadász varkaudar
+350'>vadászat szakértelem
+945'>vadászfecske
+1253'>vadászkutya
+601'>vadászmester
+3429'>vadászsarok
+375'>vadászsas
+4227'>vadászsas (új)
+1696'>vadítás
+3736'>vadítás (új)
+2616'>vadmágikus zóna
+3221'>vadóc
+5267'>vadonkutató
+1133'>vadtroll
+185'>vak őrület
+5892'>vak végzet
+932'>vakharc
+1508'>vakító fény
+1746'>vakmerő pattancs
+1185'>vakság
+3194'>vákuum-csapda
+2077'>valamit valamiért
+4024'>valdimar
+2970'>válogatás
+4681'>valóságformázás
+2117'>vám
+4579'>vámpír adeptus
+918'>vámpír lord
+4245'>vámpír lord (új)
+2833'>vámpír nagyúr
+2414'>vámpír őrszem
+2426'>vámpír sámán
+2348'>vámpírbébi
+6017'>vámpírdémon
+3443'>vámpíreledel
+487'>vámpírféreg
+5302'>vámpírféreg (új)
+2058'>vámpírfog
+214'>vámpirizáció
+1745'>vámpírmágia
+5710'>vámpírsárkány
+2482'>vámpírszobor
+1480'>vámpírtőr
+5163'>vámpírölő balkin
+5355'>vándor, a tündöklő
+888'>vándormuzsikás
+2705'>vándorsólyom
+1015'>vangorf gróf
+219'>vangorf vára
+5895'>varacsk
+2551'>varangyos béka
+631'>varázsenergia
+759'>varázsfesték
+152'>varázskő
+3930'>varázskudarc
+272'>varázslatlopás
+3717'>varázslatlopás (új)
+3909'>varázslatos mirella
+6219'>varázslatos mirella (új)
+3552'>varázslatos pillanat
+2982'>varázslógyűlés
+3962'>varázslónő
+893'>varázslótanonc
+343'>varázslótorony
+3921'>varázsmező
+2565'>varázssólyom
+2231'>varázsszél
+2668'>varázsszőnyeg
+1501'>varázsvédelem
+469'>várfal
+58'>varkaudar
+3666'>varkaudar (új)
+1150'>varkaudar bajnok
+6151'>varkaudar bajnok (új)
+1094'>varkaudar behemót
+5632'>varkaudar böllér
+1199'>varkaudar csillapítás
+1288'>varkaudar fétis
+4203'>varkaudar fétis (új)
+3353'>varkaudar gladiátor
+1901'>varkaudar hadúr
+1023'>varkaudar harcművész
+4221'>varkaudar harcművész (új)
+1531'>varkaudar hírnök
+3733'>varkaudar hírnök (új)
+895'>varkaudar íjász
+4159'>varkaudar íjász (új)
+1665'>varkaudar kém
+4193'>varkaudar kém (új)
+381'>varkaudar kínzómester
+3764'>varkaudar kínzómester (új)
+4606'>varkaudar kovács
+599'>varkaudar kölyök
+1697'>varkaudar lándzsa
+494'>varkaudar mágia
+154'>varkaudar mágus
+3692'>varkaudar mágus (új)
+5090'>varkaudar manafáklyás
+5089'>varkaudar merénylő
+1459'>varkaudar mérnök
+119'>varkaudar nekromanta
+5712'>varkaudar őslich
+1171'>varkaudar pálinka
+3683'>varkaudar pálinka (új)
+995'>varkaudar páncél
+4068'>varkaudar preventor
+2378'>varkaudar remete
+1711'>varkaudar sámán
+1260'>varkaudar szolgálólány
+6182'>varkaudar szolgálólány (új)
+732'>varkaudar tábor
+3859'>varkaudar tűzmágus
+3354'>varkaudar özönlés
+110'>várvédők
+299'>vasalt bunkó
+400'>vasalt bunkók
+2822'>vasgólem
+387'>vashegyek nemzete
+6073'>vasizmú garmok
+3959'>vaslady
+1483'>vassulyom
+1812'>vasszűz
+2020'>vastag bőr
+3062'>vastagbőrű mutak
+238'>vasvért
+5749'>védekezés
+2643'>védekező taktika
+183'>védelem a tűztől
+6191'>védelmező
+6026'>védelmező elixír
+5044'>védelmező morf
+3096'>védelmező rakshallion
+1972'>védett fajok
+2236'>védőangyal
+5419'>védőangyal (új)
+4067'>védőbástya
+1902'>védőmágia
+1318'>védőoltás
+2537'>védőposzáta
+929'>védőrúna
+2407'>védtelen elme
+1219'>végelgyengülés
+351'>végítélet
+3712'>végítélet (új)
+545'>végképp eltörölni
+6232'>végképp eltörölni (új)
+3585'>végső halál
+496'>végső küzdelem
+5147'>végső mentsvár
+3355'>végső pusztítás
+919'>végső védelem
+1026'>végső visszaszámlálás
+6165'>végső visszaszámlálás (új)
+346'>vegyesbolt
+4069'>végzetes csáp
+804'>véletlenszerű kiválasztódás
+4228'>véletlenszerű kiválasztódás (új)
+1798'>velociraptor
+4032'>veltorakinflux
+4023'>vén arfma
+4649'>vén doemon
+5224'>vén toportyán
+4621'>vénuszcsiga
+1270'>véráldozat
+3207'>vératka
+30'>vérbeli borzongás
+3055'>vérbosszú
+754'>vércápa
+2834'>vérelementál
+5195'>veremmester
+293'>vérengzés
+2092'>vérengző
+967'>véres csatabárd
+2248'>véreső
+3976'>vérfókusz
+1615'>vérfolyam
+1124'>vérfürdető magszim
+6118'>vérfürdető magszim (új)
+3076'>verg elmeszaggató
+2886'>vérgólem
+2527'>vérhold
+360'>vérhörgő mamulut
+3771'>vérhörgő mamulut (új)
+2859'>vérivók
+867'>vérkeszeg
+6300'>vérkeszeg (új)
+1903'>vérkör
+4217'>vérkör (új)
+2213'>vérmágia
+2835'>vérmes thargodan
+1799'>vérmező
+4401'>vermiteus
+2320'>vermon teknős
+5225'>vérnász
+1555'>versengés
+2620'>vérsólyom
+6213'>vérsólyom (új)
+4537'>vérszipoly
+2635'>vérszívó
+1716'>vérszívó parazita
+2024'>vérszomj
+1246'>vérszomjas csüldő
+3140'>vérszomjas karvaly
+3417'>vértestvér
+1809'>vérvörös skorpió
+2240'>vérzékenység
+1741'>vérző szív
+3561'>veszélyes faj
+5675'>veszélyes vizeken
+4091'>veszett vérfarkas
+3423'>vészkijárat
+2587'>vészmadár
+2364'>vételár
+5664'>vezetőkészség
+3285'>vg'axtol torzító
+5122'>vidám gorka
+885'>vidám manó
+4168'>vidám manó (új)
+2818'>viharburok
+1698'>viharfelhő
+3881'>viharidéző
+2467'>viharkupola
+1699'>viharlobogó
+1040'>viharóriás
+6142'>viharóriás (új)
+5560'>viharrája
+1734'>vikócmajom
+235'>világégés
+99'>világítótorony
+1160'>villám szimbólum
+3706'>villám szimbólum (új)
+5726'>villám-energizátor
+2839'>villámcsapás
+3562'>villámgyors tanulás
+3565'>villámhárító
+2626'>villámkorbács
+474'>villámrúna
+39'>villámsújtás
+3676'>villámsújtás (új)
+5234'>virág
+322'>virág szimbólum
+1010'>virágoskert
+5350'>virágoskert (új)
+2745'>virrasztók
+2931'>visszacsapó rúna
+1088'>visszacsatolás
+3751'>visszacsatolás (új)
+526'>visszafejlődés
+4270'>visszafejlődés (új)
+5870'>visszafogott fejlődés
+2559'>visszahívás
+1731'>visszalépés
+2666'>visszatartó erő
+1816'>visszatérés a túlvilágról
+3627'>visszatérő fejfájás
+4517'>visszatérő rémálom
+2753'>visszavágás
+5395'>visszavágás (új)
+1558'>viszály
+2251'>vitalitás
+1892'>vitsúhé lencséi
+4305'>vitsúhé lencséi (új)
+5502'>vízalatti sziklafal
+1955'>vízburok
+1960'>vízdémon
+735'>vízelementál
+1958'>vízesés
+1553'>víziharc
+610'>vízihulla
+5438'>vízimanó
+2725'>víziócsáp
+3524'>víziócsapás
+2700'>vízióféreg
+3373'>vízióhalál
+6099'>vízióhalál (új)
+4314'>víziók
+263'>vízionár
+3779'>vízionár (új)
+2799'>víziósárkány
+2797'>víziósólyom
+6088'>víziósólyom (új)
+5575'>vízitündér
+510'>vízmester
+6166'>vízmester (új)
+4548'>víztisztító teknős
+4111'>vlagyimir ítélete
+2942'>vlagyimir szekercéje
+953'>vlagyimir szobra
+2088'>voharai szellem
+3538'>vohuana
+4677'>vonyító vérfarkas
+1305'>vonzás
+5577'>vonzódás
+1630'>vortex
+6043'>vortexrubin
+5916'>vortexsárkány
+5834'>vortexzombi
+5923'>vulkáni energia
+290'>vulkánkitörés
+4931'>vyarg cserzőmester
+4532'>vörös felhő
+5806'>vörös halál
+5598'>vörös hínár
+4640'>vörös krónika
+4592'>vörös mytokronit
+2496'>vörös rakolits
+432'>vörös sereg
+2684'>vörös testvér
+4323'>vörösköpenyes mágus
+3386'>wejnön parancsnok
+1974'>werjut
+2000'>womath
+416'>woor-antilop
+1389'>woorgard
+5688'>wrah'treg káoszhörgő
+1409'>wulf gretta
+1878'>wyscanzi szirén
+4041'>wyvern lady
+4022'>wyverntojás
+4462'>x 1, a xenomorf
+585'>xantusz manó
+5330'>xed, az artista
+5699'>xenó agyszippantó
+4334'>xenó arctámadó
+4007'>xenó atka
+5067'>xenó báb
+5701'>xenó bilincsmester
+4110'>xenó élősködő
+4017'>xenó féreg
+4329'>xenó fészekőr
+6280'>xenó kismester
+6045'>xenó savköpülő
+5840'>xenomorf exterminátor
+3956'>xenomorf felderítő
+3997'>xenomorf harcos
+4337'>xenomorf keltetőfészek
+4116'>xenomorf királynő
+5066'>xenomorf mátriárka
+5570'>xenomorf ragadozó
+3955'>xenomorf vadász
+2768'>xenópete
+4079'>xenóvadász
+3217'>xevlar
+3175'>xilithin bélyege
+206'>xirnox
+2927'>xirnox lárva
+2027'>xirnoxfej
+5829'>xodar
+3083'>xorex fatty
+1348'>yasmina
+2186'>ydven
+4373'>yekashi keselyű
+5004'>yeti elementalista
+5078'>yeti mumifikátor
+1251'>ygrodon
+2083'>ügyességpróba
+5301'>ügyességpróba (új)
+140'>ügyetlenség
+2877'>ylgoroth
+5397'>ylgoroth (új)
+2503'>ysmon
+2331'>üsző, a kidobóember
+5323'>üsző, a kidobóember (új)
+1126'>ütközet
+5742'>yuong tűzsárkány
+3935'>üzlet egy mindentudóval
+998'>üzletember
+4226'>üzletember (új)
+3044'>zafír drakón
+2185'>zafír entitás
+970'>zafír erőöv
+4614'>zafír fókuszkristály
+5820'>zafír végzetúr
+3364'>zafírsörényű pegazus
+5618'>zajos léptek
+2462'>zak hazadar
+3652'>zálog
+239'>zan
+4283'>zan (új)
+3569'>zan detonáció
+1106'>zan diszrupció
+304'>zan-csemete
+133'>zan-indukátor
+862'>zangroz harcosai
+857'>zangrozi bika
+1961'>záporeső
+4619'>zarándok
+1115'>zarknod
+3755'>zarknod (új)
+1289'>zarknod alsó kamrája
+4333'>zarknod bilincse
+3138'>zarknod börtönében
+6013'>zarknod érintése
+1614'>zarknod familiárisa
+3410'>zarknod kovácsa
+817'>zarknod oszlopa
+4201'>zarknod oszlopa (új)
+5646'>zarknod pecsenyéje
+939'>zarknod pecsétje
+4021'>zarknod prédája
+2099'>zarknod tornya
+89'>zárnyitás
+2960'>zavaró erőtér
+5036'>zekhartax
+398'>zén
+3729'>zén (új)
+2520'>zén bosszúja
+5269'>zén menyasszonya
+2881'>zén szolgája
+1271'>zene szakértelem
+2465'>zephyndar
+5462'>zilak-din főkancellár
+227'>zinthurg
+3777'>zinthurg (új)
+2878'>zinthurg börtönőr
+5555'>zinthurg csemege
+3037'>zirri átokmacska
+6172'>zirri átokmacska (új)
+4515'>zirri elmetrükk
+5816'>zokneenho
+5778'>zokogó eső
+1180'>zoloboo
+363'>zoloboo sámán
+423'>zoloboo törzsfő
+6194'>zoloboo törzsfő (új)
+64'>zombi
+1012'>zombi mester
+6209'>zombi mester (új)
+3451'>zonel
+3496'>zonel dala
+713'>zoodroo tint
+1588'>zoola
+5041'>zord hentes
+4993'>zordall
+3621'>zoregblum professzor
+2891'>zotharax kísérlete
+4112'>zsákmányvadász
+1228'>zsarnokölő
+4533'>zsebmetsző joe
+3374'>zseléféreg
+4624'>zseniális teknős
+1034'>zsoldoskapitány
+1787'>zsoldoskatona
+1513'>zsugorítás
+1381'>zu'lit
+5468'>zu'lit csapása
+4972'>zu'lit csapdája
+1728'>zu'lit energiafüggönye
+798'>zu'lit erőtere
+3555'>zu'lit kísérlete
+3025'>zu'lit mérlege
+822'>zu'lit parazitája
+5084'>zu'lit sárkánya
+497'>zu'lit szolgája
+5020'>zu'lit védőtekercse
+5135'>zu'lit villáma
+5561'>zugkígyó
+1485'>zuhatag
+199'>zurgblug
+4949'>zúzókesztyű
+5558'>zytan, az istencsászárnő
+4999'>zöld draklen
+2318'>zöld ekinda
+2017'>zöld manaital
+2316'>zöld nyálka
+316'>zöldellő fa
+1700'>zöldfülű kalandozók
+3694'>zöldfülű kalandozók (új)
+5609'>zöldszemű evelin
+869'>öklelő kos
+1577'>öldöklés
+3832'>ölészet
+3431'>ölvefoltozó
+5478'>önbizalom
+790'>önfeláldozás
+2498'>öngyilkos düh
+2714'>öngyilkos féreg
+5332'>öngyilkos féreg (új)
+2495'>öngyilkos kommandó
+988'>öngyulladás
+1146'>önmérgezés
+1574'>ördögi kör
+1002'>ördögi mentor
+1543'>ördöglakat
+5809'>ördögpók
+1562'>ördögűző
+6157'>ördögűző (új)
+2444'>ördögűző pálca
+5377'>ördögűző pálca (új)
+1406'>öreg varázsló
+4385'>öreg vazallus
+5637'>öregítés
+2040'>öregítő csáp
+3970'>öregítő sugár
+653'>örvény
+3836'>örvény a semmibe
+5520'>örvénykeltő
+3551'>örök dilemma
+1580'>örök fagy
+3191'>örök harag
+42'>örök kábulat
+4170'>örök kábulat (új)
+2216'>örök pihenés
+5911'>örökmozgó
+2791'>öröktűz
+5030'>öshangya taktikus
+5073'>öshangya technikus
+5107'>összeesküvés
+270'>összeférhetetlenség
+906'>összefogás
+5050'>összeomlás
+3922'>ösztön

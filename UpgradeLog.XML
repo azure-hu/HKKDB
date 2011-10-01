@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="HKK_Downloader">
+</Property><Property Name="Solution File" Value="C:\Users\zoi\Desktop\HKK_Downloader\HKK_Downloader.sln">
+</Property><Property Name="User Options File" Value="C:\Users\zoi\Desktop\HKK_Downloader\HKK_Downloader.suo">
+</Property><Property Name="Date" Value="2011. április 27.">
+</Property><Property Name="Time" Value="13:21">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="HKK_Downloader.sln" Description="File successfully backed up as C:\Users\zoi\Desktop\HKK_Downloader\Backup\HKK_Downloader.sln">
+</Event><Event ErrorLevel="0" Project="" Source="HKK_Downloader.suo" Description="File successfully backed up as C:\Users\zoi\Desktop\HKK_Downloader\Backup\HKK_Downloader.suo">
+</Event><Event ErrorLevel="0" Project="HKK_Downloader" Source="HKK_Downloader\HKK_Downloader.csproj" Description="Project file successfully backed up as C:\Users\zoi\Desktop\HKK_Downloader\Backup\HKK_Downloader\HKK_Downloader.csproj">
+</Event><Event ErrorLevel="0" Project="HKK_Downloader" Source="HKK_Downloader\DownloadImage.cs" Description="File successfully backed up as C:\Users\zoi\Desktop\HKK_Downloader\Backup\HKK_Downloader\DownloadImage.cs">
+</Event><Event ErrorLevel="0" Project="HKK_Downloader" Source="HKK_Downloader\Extractor.cs" Description="File successfully backed up as C:\Users\zoi\Desktop\HKK_Downloader\Backup\HKK_Downloader\Extractor.cs">
+</Event><Event ErrorLevel="0" Project="HKK_Downloader" Source="HKK_Downloader\Processor.cs" Description="File successfully backed up as C:\Users\zoi\Desktop\HKK_Downloader\Backup\HKK_Downloader\Processor.cs">
+</Event><Event ErrorLevel="0" Project="HKK_Downloader" Source="HKK_Downloader\Program.cs" Description="File successfully backed up as C:\Users\zoi\Desktop\HKK_Downloader\Backup\HKK_Downloader\Program.cs">
+</Event><Event ErrorLevel="0" Project="HKK_Downloader" Source="HKK_Downloader\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\zoi\Desktop\HKK_Downloader\Backup\HKK_Downloader\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="HKK_Downloader" Source="HKK_Downloader\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\zoi\Desktop\HKK_Downloader\Backup\HKK_Downloader\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="HKK_Downloader" Source="HKK_Downloader\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\zoi\Desktop\HKK_Downloader\Backup\HKK_Downloader\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="HKK_Downloader" Source="HKK_Downloader\Properties\Settings.settings" Description="File successfully backed up as C:\Users\zoi\Desktop\HKK_Downloader\Backup\HKK_Downloader\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="HKK_Downloader" Source="HKK_Downloader\Properties\Resources.resx" Description="File successfully backed up as C:\Users\zoi\Desktop\HKK_Downloader\Backup\HKK_Downloader\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="HKK_Downloader" Source="HKK_Downloader\HKK_Downloader.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="HKK_Downloader" Source="HKK_Downloader\HKK_Downloader.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="HKK_Downloader" Source="HKK_Downloader\HKK_Downloader.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="HKK_Downloader.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="HKK_Downloader.sln" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="HKK_Downloader" Source="HKK_Downloader\HKK_Downloader.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

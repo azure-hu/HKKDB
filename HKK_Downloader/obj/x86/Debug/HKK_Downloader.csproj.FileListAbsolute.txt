@@ -1,0 +1,7 @@
+D:\dev\HKK_Downloader\HKK_Downloader\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\dev\HKK_Downloader\HKK_Downloader\obj\x86\Debug\HKK_Downloader.Properties.Resources.resources
+D:\dev\HKK_Downloader\HKK_Downloader\bin\Debug\HKK_Downloader.exe
+D:\dev\HKK_Downloader\HKK_Downloader\bin\Debug\HKK_Downloader.pdb
+D:\dev\HKK_Downloader\HKK_Downloader\obj\x86\Debug\HKK_Downloader.exe
+D:\dev\HKK_Downloader\HKK_Downloader\obj\x86\Debug\HKK_Downloader.pdb
+D:\dev\HKK_Downloader\HKK_Downloader\obj\x86\Debug\HKK_Downloader.csproj.GenerateResource.Cache
